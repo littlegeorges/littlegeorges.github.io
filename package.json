@@ -1,0 +1,16 @@
+{
+  "name": "little-georges",
+  "version": "1.0.0",
+  "description": "Static generator for Little George's web site",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-shell": "^0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Walker",
+  "license": "ISC"
+}
