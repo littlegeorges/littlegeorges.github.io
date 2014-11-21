@@ -1,0 +1,1395 @@
+{
+  "menu" : [
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Spinach Delight",
+        "Description" : "Spinach, Tomatoes, Onions, Green Peppers, Feta Cheese, Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Mediterranean Classic",
+        "Description" : "Spinach Leaves, Onions, Olives, Feta Cheese, Banana Peppers, Tomatoes, Fresh Garlic, Cheese, Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Chicken Club Classic",
+        "Description" : "Grilled Chicken Breast, Smoked Bacon, Onions, Tomatoes, Lotsa Mozza, Cheese & Tomato Sauce\n",
+        "Price" : "22.95, 27.95, 32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "House Specials",
+        "Description" : "Pepperoni, Mushrooms, Ham, Green Pepper, Olives, Tomatoes, Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Vegetarian Special",
+        "Description" : "Mushrooms, Green Peppers, Cheese, Onions, Olives, Tomatoes, Pineapple, Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Classic Hawaiian",
+        "Description" : "Canadian Ham, Smoked Bacon, Pineapple, Cheddar Cheese, Mozzarella Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Peter Piper Cheddar Chicken Melt",
+        "Description" : "Julian Chicken, Onion, Tomatoes, Cheddar, Mozzarella Cheese & Our Ultimate B.B.Q Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Meat Lover's Special",
+        "Description" : "Pepperoni, Salami, Ham, Bacon, Beef, Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Seafood Special",
+        "Description" : "Crabmeat, Scallops, Shrimp, Mozzarella Cheese, Cheddar Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Greek Italian",
+        "Description" : "Pepperoni, onions, Olives, Green Pepper, Tomatoes, Feta Cheese, Mozzarella Cheese& Tomato Cheese\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Bacon Cheddar Melt",
+        "Description" : "Pepperoni, Smoked Bacon, Beef, Mozzarella Cheese, Cheddar Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Chef's Mistake",
+        "Description" : "Pepperoni, Mushrooms, Ham, Italian Sausage, Onions, Green Peppers, Olives, Pineapple, Cheese & Tomato Sauce\n",
+        "Price" : "$24.95, $30.95, $34.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "All Dressed",
+        "Description" : "Pepperoni, Mushrooms, Ham, Beef, Olives, Onions, Green Pepper, Pineapple, Shrimp, Tomatoes, Cheese & Tomato Sauce\n",
+        "Price" : "$25.95, $31.95, $36.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "The Mexican",
+        "Description" : "Beef, Green Pepper, Tomatoes, Cheddar Cheese, Hot Banana Peppers, Mozzarella Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Bacon Chicken Alfredo",
+        "Description" : "Grilled Chicken Breast, Bacon, Red Onions, Green Peppers, Alfredo Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Chipotle Chicken",
+        "Description" : "Grilled Chicken Breast, Red Onions, Green Peppers, Tomatoes & our very own Chipotle Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Classic Meat Ball",
+        "Description" : "Pepperoni, Roasted Meatballs, Red Onions, Cheddar Cheese & Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Classic Pesto Chicken",
+        "Description" : "Grilled Chicken, Spinach, Red Onions, Tomatoes & our own Pesto Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Butter Chicken Classic",
+        "Description" : "Grilled Chicken Breast, Bacon, Red Onions, Mozza & Cheddar Cheese, Tomatoes, our very own Butter Chicken Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "The Big Cheese Bonanza",
+        "Description" : "Cheddar Cheese, Mozza Cheese, Feta Cheese, Parmesan Cheese and all the Cheese!\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Pizza 2 for 1",
+        "Item Title" : "Classic Teriyaki Chicken",
+        "Description" : "Grilled Teriyaki Chicken, Green Pepper, Red Onion, Tomatoes & our own Tomato Sauce\n",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "pizza",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Bacon Cheddar Burger",
+        "Description" : "",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Charbroiled Chicken Club Burger",
+        "Description" : "",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Charbroiled Chicken Breast Burger",
+        "Description" : "",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Deluxe Cheeseburger",
+        "Description" : "",
+        "Price" : "$10.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Deluxe Teriyaki Burger",
+        "Description" : "",
+        "Price" : "$10.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Classic Mushroom Cheddar Burger",
+        "Description" : "",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Deluxe Burger",
+        "Description" : "",
+        "Price" : "$10.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Charbroiled Chicken Teriyaki Breast Burger",
+        "Description" : "",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Salmon Burger",
+        "Description" : "Served with lettuce, onion, tomato, and chipotle mayo.\n",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Burgers",
+        "Item Title" : "Charbroiled Veggie Burger",
+        "Description" : "Served with lettuce, onions, tomatoes, and chipotle mayo\n",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Salads",
+        "Item Title" : "Chef's Salad",
+        "Description" : "Consists of crisp Romaine, cucumbers, tomatoes, ham, cheddar cheese, and your choice of dressing\n",
+        "Price" : "Regular 8.95, Large 11.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "All served with garlic toast\nAdd Cajun Prawns (6 pieces) - $4.95\nAdd Cold Water Shrimp - $3.95\nAdd Chicken Breast - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Salads",
+        "Item Title" : "Caesar Salad",
+        "Description" : "Prepared with our own creamy Caesar dressing, croutons, and parmesan cheese\n",
+        "Price" : "Regular 8.95, Large 11.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "All served with garlic toast\nAdd Cajun Prawns (6 pieces) - $4.95\nAdd Cold Water Shrimp - $3.95\nAdd Chicken Breast - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Salads",
+        "Item Title" : "Teriyaki Chicken Caesar",
+        "Description" : "Caesar salad topped with grilled chicken breast, marinated in our own teriyaki sauce.\n",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "All served with garlic toast\nAdd Cajun Prawns (6 pieces) - $4.95\nAdd Cold Water Shrimp - $3.95\nAdd Chicken Breast - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Salads",
+        "Item Title" : "Hot & Spicy Chicken Caesar",
+        "Description" : "Caesar salad topped with a generous portion of our own spicy chicken.\n",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "All served with garlic toast\nAdd Cajun Prawns (6 pieces) - $4.95\nAdd Cold Water Shrimp - $3.95\nAdd Chicken Breast - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Salads",
+        "Item Title" : "Greek Salad",
+        "Description" : "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.\n",
+        "Price" : "Regular 8.95, Large 12.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "All served with garlic toast\nAdd Cajun Prawns (6 pieces) - $4.95\nAdd Cold Water Shrimp - $3.95\nAdd Chicken Breast - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Salads",
+        "Item Title" : "Classic Mandarin Spinach Salad",
+        "Description" : "Baby spinach leaves, red onions, tomatoes topped with candied walnuts and cranberries. Served with raspberry vinaigrette and mandarin slices.\n",
+        "Price" : "$10.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "All served with garlic toast\nAdd Cajun Prawns (6 pieces) - $4.95\nAdd Cold Water Shrimp - $3.95\nAdd Chicken Breast - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Fettuccini Alfredo with Ham",
+        "Description" : "Fettuccini noodles tossed in our own Alfredo sauce and ham topped with Parmesan cheese.\n",
+        "Price" : "$15.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Grilled Chicken Fettuccini",
+        "Description" : "Sliced grilled chicken breast tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheese.\n",
+        "Price" : "$15.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Spaghettini a la George",
+        "Description" : "Spaghettini noodles tossed with fresh garlic, red onions, peppers, alfredo sauce and grilled chicken breast. Topped with parmesan cheese.\n",
+        "Price" : "$15.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Pesto Chicken Fettuccini",
+        "Description" : "Sliced grilled chicken breast tossed in our homemade pesto sauce and fettuccini noodles topped with parmesan cheese.\n",
+        "Price" : "$15.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Shrimp Fettuccini",
+        "Description" : "Cold water, plump shrimps tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.\n",
+        "Price" : "$15.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Tiger Prawn Fettuccini",
+        "Description" : "Sautéed tiger prawns tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.\n",
+        "Price" : "$16.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Grilled Butter Chicken Fettuccini",
+        "Description" : "Sliced grilled chicken breast tossed in our own butter chicken sauce and fettuccini noodles, topped with parmesan cheese.\n",
+        "Price" : "$15.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Specialty Pastas",
+        "Item Title" : "Cajun Prawns Fettuccini",
+        "Description" : "Sautéed tiger prawns tossed in our own cajun spice and fettuccini noodles topped with parmesan cheese.\n",
+        "Price" : "$16.95",
+        "Display Format" : "two-col",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "served with garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Steamed Spaghetti",
+        "Description" : "with meat sauce or veggie sauce\n",
+        "Price" : "$18.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Spaghetti",
+        "Description" : "with meat sauce or veggie sauce\n",
+        "Price" : "$19.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Lasagna",
+        "Description" : "with meat sauce or veggie sauce\n",
+        "Price" : "$19.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Ravioli",
+        "Description" : "with meat sauce or veggie sauce\n",
+        "Price" : "$20.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Tortellini",
+        "Description" : "with meat sauce or veggie sauce\n",
+        "Price" : "$20.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Spinach & Cheese Cannelloni",
+        "Description" : "with meat sauce or veggie sauce\n",
+        "Price" : "$21.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Fettuccini Alfredo",
+        "Description" : "",
+        "Price" : "$20.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "2 for 1 Pasta",
+        "Item Title" : "Baked Tortellini Alfredo",
+        "Description" : "",
+        "Price" : "$20.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Add meatballs or extra cheese for $2.00\n$6.00 discount on single order\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Pita & Homus or Tzatziki",
+        "Description" : "",
+        "Price" : "$6.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Chicken Fingers",
+        "Description" : "served with a dip\n",
+        "Price" : "$9.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Deep Fried Mushrooms",
+        "Description" : "with Tzatziki dip\n",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : " Deep Fries Zucchini",
+        "Description" : "with Tzatziki dip\n",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : " Fresh Calamari",
+        "Description" : "with Tzatziki dip\n",
+        "Price" : "$10.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : " Deep Fried Mozza Sticks",
+        "Description" : "with Tzatziki dip\n",
+        "Price" : "$8.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Tossed Salad",
+        "Description" : "",
+        "Price" : "$3.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Grilled Focaccia Bread",
+        "Description" : "served with extra virgin olive oil with balsamic.\n",
+        "Price" : "$4.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Cheezy Bread",
+        "Description" : "A pizza shell with garlic butter, mozza and cheddar blend baked in the oven. Served with ranch dip.\n",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Tweety Bread",
+        "Description" : "A pizza shell with garlic butter baked in the oven. Topped with parmesan and herbs. Served with ranch dip.\n",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Deep Fried Prawns ",
+        "Description" : "6 pieces, served with cocktail sauce.\n",
+        "Price" : "$8.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Chicken Wings",
+        "Description" : "1 pound. (Hot and Spicy, Teriyaki or B.B.Q)\n",
+        "Price" : "$10.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Dry Garlic Ribs",
+        "Description" : "served with plum sauce.\n",
+        "Price" : "$9.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Munchie Basket",
+        "Description" : "Chicken fingers, mozza sticks, zucchini and mushrooms.\n",
+        "Price" : "$15.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Poutine",
+        "Description" : "Fries, gravy and mozza.\n",
+        "Price" : "$6.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Yam Fries",
+        "Description" : "served with chipolte mayo.\n",
+        "Price" : "$6.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Fries",
+        "Description" : "",
+        "Price" : "$3.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Bruchetta",
+        "Description" : "Toasted French bread with olive oil, pesto basil, topped with diced tomatoes, red onions, baked with mozza, cheddar and parmesan.\n",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Popcorn Shrimp",
+        "Description" : "served with seafood sauce\n",
+        "Price" : "$9.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Jalapeno Poppers",
+        "Description" : "served with sweet chilli sauce\n",
+        "Price" : "$9.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Appetizers",
+        "Item Title" : "Onion rings",
+        "Description" : "",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "1/2 BBQ Chicken ",
+        "Description" : "Tender chicken prepared in our own BBQ sauce.\n",
+        "Price" : "$16.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "BBQ Ribs",
+        "Description" : "Tender baby back ribs prepared with herbs and spices in our own BBQ sauce.\n",
+        "Price" : "$19.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "BBQ Chicken & Ribs",
+        "Description" : "All the above served with saladm garlic bread and choice of baked potato, rice orsteamed spaghetti or substitute baked pasta for $2.00.\n",
+        "Price" : "$19.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Teriyaki Chicken Breast Dinner",
+        "Description" : "Succulent breast of chicken, broiled to perfection with Teriyaki sauce. Served with salad, garlic bread and choice of baked potato, rice or fries.\n",
+        "Price" : "$18.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Greek Style Chicken Breast Dinner",
+        "Description" : "Two succulent breast of chicken, marinated in lemon, oregano, olive oil and spices grilled to perfection. Served with rice, greek salad and pita bread.\n",
+        "Price" : "$18.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Butter Chicken Dinner",
+        "Description" : "Grilled chicken breast cooked to perfection in our own butter chicken sauce. Served on a bed of rice and comes with a Caesar salad.\n",
+        "Price" : "$16.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Grilled Curried Prawn Dinner",
+        "Description" : "Curried prawns served on a bed of rice and comes with a Caesar salad.\n",
+        "Price" : "$16.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Roast Lamb Shank",
+        "Description" : "Braised lamb shank cooked with herbs, rosemary and spices. With a choice of roast potatoes or rice with Greek salad.\n",
+        "Price" : "$18.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Chicken Strips Dinner",
+        "Description" : "Served with fries or Caesar salad and garlic bread.\n",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Calamari Dinner",
+        "Description" : "With Caesar or Greek Combo. Served with pita bread or tzatziki.\n",
+        "Price" : "$13.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Fried Chicken Dinner ",
+        "Description" : "Served with fries or Caesar salad and garlic bread.\n",
+        "Price" : "$13.95 3pc, $16.95 6pc",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Little George's Hot Sandwich",
+        "Description" : "A fresh loaf of Italian bread with tomato sauce, pepperoni, ham, onions and mozzarella cheese baked in the oven.\n",
+        "Price" : "Whole Loaf $13.95, Half Loaf $7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Garlic Prawn Dinner",
+        "Description" : "Succulent prawns pan fried with garlic butter and white wine. Served with choice of rice, roast potatoes or baked potato and Caesar Salad or Tossed salad & garlic bread\n",
+        "Price" : "$17.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Veal Parmesan",
+        "Description" : "Served with Spaghettini Noodles and Caesar salad or tossed salad\n",
+        "Price" : "$17.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "House Specialties",
+        "Item Title" : "Mediterranean Lamb Chops",
+        "Description" : "Lamb Chops marinated with herbs and spices grilled to perfection. Served with a choice of roast potatoes or rice and Greek salad & pita bread\n",
+        "Price" : "$18.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "(this section is not 2 for 1)\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Charbroiled Steaks",
+        "Item Title" : "8oz. New York Strip Loin",
+        "Description" : "",
+        "Price" : "$19.95",
+        "Display Format" : "mini",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "All above served with Caesar or Tossed salad, garlic bread, and choice of baked potato, rice or roast potatoes.\n",
+        "Section Notes" : "(Cut from Canadian Best Cut Meats)\nSterlingSilver AAA The Best!!!\nAdd skewer of garlic prawns - $4.95\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Souvlaki",
+        "Item Title" : "Beef Souvlaki",
+        "Description" : "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.\n",
+        "Price" : "$17.95",
+        "Display Format" : "mini",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Souvlaki",
+        "Item Title" : "Chicken Souvlaki",
+        "Description" : "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.\n",
+        "Price" : "$17.95",
+        "Display Format" : "mini",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Steak & Pasta Combos",
+        "Item Title" : "8 oz. New York Strip Loin Steak with Pasta",
+        "Description" : "",
+        "Price" : "$21.95",
+        "Display Format" : "mini",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Served with Caesar or tossed salad & garlic toast\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : " New Yorker Steak Sandwich",
+        "Item Title" : "",
+        "Description" : "",
+        "Price" : "",
+        "Display Format" : "mini",
+        "Section Available At" : "South Nanaimo",
+        "Item Available At" : "South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "$15.95\nServed with fries or Caesar salad.\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "Basic Cheese & Tomato Sauce",
+        "Description" : "",
+        "Price" : "$17.95, $20.95, $23.95",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "One topping",
+        "Description" : "",
+        "Price" : "$18.95, $22.95, $26.95",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "Two toppings",
+        "Description" : "",
+        "Price" : "$20.95, $23.95, $28.95",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "Three toppings",
+        "Description" : "",
+        "Price" : "$21.95, $25.95, $30.95",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "Four toppings",
+        "Description" : "",
+        "Price" : "$22.95, $27.95, $32.95",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "Extra topping 1 pizza",
+        "Description" : "",
+        "Price" : "$0.75, $1, $1.5",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "Extra topping 2 pizzas",
+        "Description" : "",
+        "Price" : "$1.5, $2, $3",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "extra cheese 1 pizza",
+        "Description" : "",
+        "Price" : "$1, $1.5, $2",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Make Your Own 2 for 1",
+        "Item Title" : "extra cheese 2 pizzas",
+        "Description" : "",
+        "Price" : "$2, $3, $4",
+        "Display Format" : "table",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n"
+      }
+    },
+    {
+      "entry" : {
+        "title" : "DAILY PICK-UP SPECIALS",
+        "Item Title" : "SMALL",
+        "Description" : "2 Toppings\n",
+        "Price" : "$7.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "DAILY PICK-UP SPECIALS",
+        "Item Title" : "MEDIUM",
+        "Description" : "2 Toppings\n",
+        "Price" : "$9.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "DAILY PICK-UP SPECIALS",
+        "Item Title" : "LARGE",
+        "Description" : "2 Toppings\n",
+        "Price" : "$12.95",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : ""
+      }
+    },
+    {
+      "entry" : {
+        "title" : "Tuesday Night is Pasta Night",
+        "Item Title" : "",
+        "Description" : "",
+        "Price" : "",
+        "Display Format" : "",
+        "Section Available At" : "North Nanaimo, South Nanaimo",
+        "Item Available At" : "North Nanaimo, South Nanaimo",
+        "End Notes" : "",
+        "Section Notes" : "$7.95 Pick-up or Dine-in $7.95\n"
+      }
+    }
+  ]
+}

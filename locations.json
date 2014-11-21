@@ -1,0 +1,14 @@
+[
+	{
+		"name": "south-nanaimo",
+		"title": "South Nanaimo",
+		"phone_number": "(250) 754-3271",
+		"address": "398 Bruce Ave. Nanaimo, BC"
+	},
+	{
+		"name": "north-nanaimo",
+		"title": "North Nanaimo",
+		"phone_number": "(250) 390-2888",
+		"address": "#4 - 6404 Metral Drive Nanaimo, BC"
+	}
+]
