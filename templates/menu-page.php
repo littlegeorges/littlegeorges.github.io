@@ -12,6 +12,35 @@
 					</a>
 				</li>
 			<?php endforeach ?>
+			<li class="stack lg-jump-menu_item">
+				<h2 class="cs-4 text-center">
+					DAILY PICK-UP SPECIALS
+				</h2>
+				<div class="tiles">
+					<div class="tile w-1-3 text-center">
+						SMALL<br>
+						$7.95<br>
+						2 Toppings
+					</div>
+					<div class="tile w-1-3 text-center">
+						MEDIUM<br>
+						$9.95<br>
+						2 Toppings
+					</div>
+					<div class="tile w-1-3 text-center">
+						LARGE<br>
+						$12.95<br>
+						2 Toppings
+					</div>
+				</div>
+
+				<h2 class="cs-4 text-center">
+					Tuesday Night is Pasta Night
+				</h2>
+				<p class="text-center">
+					Pick-up or Dine-in $7.95
+				</p>
+			</li>
 		</ul>
 	</div>
 	<div class="stack md-pad-left-md md-table-cell md-w-3-4 tiles tiles-center">
