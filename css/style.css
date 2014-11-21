@@ -108,3 +108,20 @@ a {
 	height: 38px;
 	background-image: url(../images/facebook.png);
 }
+
+.sidebar-background {
+	position: relative;
+}
+
+	.sidebar-background:before {
+		content: '';
+		display: block;
+		position: absolute;
+		z-index: -1;
+		top: 0;
+		left: 0;
+		width: 80%; /* fallback */
+		width: calc(100% - 26px);
+		height: 100%;
+		background-color: black;
+	}
