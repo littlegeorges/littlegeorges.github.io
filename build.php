@@ -47,8 +47,8 @@ function filter_by_location($items, $location) {
 	return $filtered_items;
 }
 
-$locations = json_decode(file_get_contents('locations.json'));
-$menu = json_decode(file_get_contents('menu.json'));
+$locations = json_decode(file_get_contents('data/locations.json'));
+$menu = json_decode(file_get_contents('data/menu.json'));
 
 if (is_dir(STATIC_SITE_FOLDER)) {
 	rrmdir(STATIC_SITE_FOLDER);
