@@ -9,6 +9,7 @@ gulp.task('watch', function() {
 	gulp.watch([
 		'data/*',
 		'css/*',
+		'js/*',
 		'templates/*',
 		'*.php'
 	], ['default'])
