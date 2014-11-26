@@ -25,6 +25,9 @@ gulp.task('optimize', function() {
 				'_site/index.html',
 				'_site/south-nanaimo/index.html',
 				'_site/north-nanaimo/index.html'
+			],
+			ignore: [
+				/\.lg-jump-menu-.+/
 			]
 		}))
 		.pipe(gulp_minify_css())
