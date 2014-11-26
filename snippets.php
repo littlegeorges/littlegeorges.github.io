@@ -94,10 +94,13 @@ function standard_menu_section($menu_section) {
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
 				<div class="tile w-1-2 pad-md tiles tiles-justify">
-					<?php item_title($menu_item->title); ?>
+					<div class="tile max-w-3-4 pad-right-sm">
+						<?php item_title($menu_item->title); ?>
+					</div>
 					<div class="tile">
 						<?php item_price($menu_item->price); ?>
 					</div>
+					<!-- the above two tiles won't justify unless this is also a `.tile` -->
 					<div class="tile w-fill pad-top-md">
 						<?php echo Markdown::defaultTransform($menu_item->description); ?>
 					</div>
@@ -144,7 +147,9 @@ function mini_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<?php foreach ($menu_section->menu_items as $menu_item): ?>
 			<div class="tiles tiles-justify pad-top-md">
-				<?php item_title($menu_item->title); ?>
+				<div class="tile max-w-3-4">
+					<?php item_title($menu_item->title); ?>
+				</div>
 				<div class="tile">
 					<?php item_price($menu_item->price); ?>
 				</div>
