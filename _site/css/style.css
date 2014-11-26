@@ -104,6 +104,7 @@ img {
   display: table-row;
 }
 .table-cell {
+  vertical-align: top;
   display: table-cell;
 }
 .tiles-left {
@@ -867,6 +868,7 @@ img {
     display: table-row;
   }
   .sm-table-cell {
+    vertical-align: top;
     display: table-cell;
   }
   .sm-tiles-left {
@@ -1631,6 +1633,7 @@ img {
     display: table-row;
   }
   .md-table-cell {
+    vertical-align: top;
     display: table-cell;
   }
   .md-tiles-left {
@@ -2395,6 +2398,7 @@ img {
     display: table-row;
   }
   .lg-table-cell {
+    vertical-align: top;
     display: table-cell;
   }
   .lg-tiles-left {
@@ -3159,6 +3163,7 @@ img {
     display: table-row;
   }
   .xl-table-cell {
+    vertical-align: top;
     display: table-cell;
   }
   .xl-tiles-left {
