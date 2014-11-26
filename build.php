@@ -8,22 +8,6 @@ function url_slug($name) {
 	return urlencode(strtolower(str_replace(' ', '-', $name)));
 }
 
-function recurse_copy($src,$dst) { 
-    $dir = opendir($src); 
-    @mkdir($dst); 
-    while(false !== ( $file = readdir($dir)) ) { 
-        if (( $file != '.' ) && ( $file != '..' )) { 
-            if ( is_dir($src . '/' . $file) ) { 
-                recurse_copy($src . '/' . $file,$dst . '/' . $file); 
-            } 
-            else { 
-                copy($src . '/' . $file,$dst . '/' . $file); 
-            } 
-        } 
-    } 
-    closedir($dir); 
-} 
-
 function rrmdir($dir) {
 	if (!empty($dir)) {
 		foreach(glob($dir . '/*') as $file) { 
@@ -50,19 +34,11 @@ function filter_by_location($items, $location) {
 $locations = json_decode(file_get_contents('data/locations.json'));
 $menu = json_decode(file_get_contents('data/menu.json'));
 
-if (is_dir(STATIC_SITE_FOLDER)) {
-	rrmdir(STATIC_SITE_FOLDER);
-}
-mkdir(STATIC_SITE_FOLDER);
-
 generate_landing_page($locations);
 
 foreach ($locations as &$location) {
 	$location->menu = filter_by_location($menu, $location->name);
 	generate_menu_page($location);
 }
-
-recurse_copy('js', STATIC_SITE_FOLDER.'/js');
-recurse_copy('images', STATIC_SITE_FOLDER.'/images');
 
 ?>
