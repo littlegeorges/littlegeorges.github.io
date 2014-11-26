@@ -8,8 +8,8 @@
 		var jump_menu_rect = el_lg_jump_menu.getBoundingClientRect();
 		var body_rect = document.body.getBoundingClientRect();
 		top = jump_menu_rect.top - body_rect.top;
+		window.onscroll();
 	};
-	determineTopAndWidth();
 
 	// Assuming that any custom fonts will have loaded
 	// within half a second. This is an unreliable way
