@@ -62,7 +62,7 @@ function page_bottom() {
 
 function item_title($title) {
 	?>
-	<h3 class="tile">
+	<h3 class="tile fs-mdlg">
 		<?php echo $title; ?>
 	</h3>
 	<?php
@@ -119,18 +119,20 @@ function pizza_menu_section($menu_section) {
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
 				<div class="tile w-1-2 pad-md">
 					<?php item_title($menu_item->title); ?>
-					<?php echo Markdown::defaultTransform($menu_item->description); ?>
-					<div class="tiles tiles-justify pad-top-md">
-						<div class="tile">
-							<strong>Sm.</strong>
+					<div class="fs-mdsm">
+						<?php echo Markdown::defaultTransform($menu_item->description); ?>
+					</div>
+					<div class="tiles tiles-justify pad-v-sm pad-h-sm lg-pad-h-lg">
+						<div class="tile text-center">
+							<strong class="stack">Sm.</strong>
 							<?php echo $menu_item->price[0]; ?>
 						</div>
-						<div class="tile">
-							<strong>Md.</strong>
+						<div class="tile text-center">
+							<strong class="stack">Md.</strong>
 							<?php echo $menu_item->price[1]; ?>
 						</div>
-						<div class="tile">
-							<strong>Lg.</strong>
+						<div class="tile text-center">
+							<strong class="stack">Lg.</strong>
 							<?php echo $menu_item->price[2]; ?>
 						</div>
 					</div>

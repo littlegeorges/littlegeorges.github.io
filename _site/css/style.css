@@ -799,9 +799,17 @@ img {
   font-size: 12px;
   line-height: 18px;
 }
+.fs-mdsm {
+  font-size: 16px;
+  line-height: 24px;
+}
 .fs-md {
   font-size: 18px;
   line-height: 26px;
+}
+.fs-mdlg {
+  font-size: 22px;
+  line-height: 28px;
 }
 .fs-lg {
   font-size: 26px;
@@ -1554,9 +1562,17 @@ img {
     font-size: 12px;
     line-height: 18px;
   }
+  .sm-fs-mdsm {
+    font-size: 16px;
+    line-height: 24px;
+  }
   .sm-fs-md {
     font-size: 18px;
     line-height: 26px;
+  }
+  .sm-fs-mdlg {
+    font-size: 22px;
+    line-height: 28px;
   }
   .sm-fs-lg {
     font-size: 26px;
@@ -2310,9 +2326,17 @@ img {
     font-size: 12px;
     line-height: 18px;
   }
+  .md-fs-mdsm {
+    font-size: 16px;
+    line-height: 24px;
+  }
   .md-fs-md {
     font-size: 18px;
     line-height: 26px;
+  }
+  .md-fs-mdlg {
+    font-size: 22px;
+    line-height: 28px;
   }
   .md-fs-lg {
     font-size: 26px;
@@ -3066,9 +3090,17 @@ img {
     font-size: 12px;
     line-height: 18px;
   }
+  .lg-fs-mdsm {
+    font-size: 16px;
+    line-height: 24px;
+  }
   .lg-fs-md {
     font-size: 18px;
     line-height: 26px;
+  }
+  .lg-fs-mdlg {
+    font-size: 22px;
+    line-height: 28px;
   }
   .lg-fs-lg {
     font-size: 26px;
@@ -3822,9 +3854,17 @@ img {
     font-size: 12px;
     line-height: 18px;
   }
+  .xl-fs-mdsm {
+    font-size: 16px;
+    line-height: 24px;
+  }
   .xl-fs-md {
     font-size: 18px;
     line-height: 26px;
+  }
+  .xl-fs-mdlg {
+    font-size: 22px;
+    line-height: 28px;
   }
   .xl-fs-lg {
     font-size: 26px;
