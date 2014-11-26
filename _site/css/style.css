@@ -726,6 +726,29 @@ img {
 .pad-right-md {
   padding-right: 26px;
 }
+.pad-mdlg {
+  padding: 39px;
+}
+.pad-h-mdlg {
+  padding-left: 39px;
+  padding-right: 39px;
+}
+.pad-v-mdlg {
+  padding-top: 39px;
+  padding-bottom: 39px;
+}
+.pad-top-mdlg {
+  padding-top: 39px;
+}
+.pad-bottom-mdlg {
+  padding-bottom: 39px;
+}
+.pad-left-mdlg {
+  padding-left: 39px;
+}
+.pad-right-mdlg {
+  padding-right: 39px;
+}
 .pad-lg {
   padding: 52px;
 }
@@ -1489,6 +1512,29 @@ img {
   }
   .sm-pad-right-md {
     padding-right: 26px;
+  }
+  .sm-pad-mdlg {
+    padding: 39px;
+  }
+  .sm-pad-h-mdlg {
+    padding-left: 39px;
+    padding-right: 39px;
+  }
+  .sm-pad-v-mdlg {
+    padding-top: 39px;
+    padding-bottom: 39px;
+  }
+  .sm-pad-top-mdlg {
+    padding-top: 39px;
+  }
+  .sm-pad-bottom-mdlg {
+    padding-bottom: 39px;
+  }
+  .sm-pad-left-mdlg {
+    padding-left: 39px;
+  }
+  .sm-pad-right-mdlg {
+    padding-right: 39px;
   }
   .sm-pad-lg {
     padding: 52px;
@@ -2255,6 +2301,29 @@ img {
   .md-pad-right-md {
     padding-right: 26px;
   }
+  .md-pad-mdlg {
+    padding: 39px;
+  }
+  .md-pad-h-mdlg {
+    padding-left: 39px;
+    padding-right: 39px;
+  }
+  .md-pad-v-mdlg {
+    padding-top: 39px;
+    padding-bottom: 39px;
+  }
+  .md-pad-top-mdlg {
+    padding-top: 39px;
+  }
+  .md-pad-bottom-mdlg {
+    padding-bottom: 39px;
+  }
+  .md-pad-left-mdlg {
+    padding-left: 39px;
+  }
+  .md-pad-right-mdlg {
+    padding-right: 39px;
+  }
   .md-pad-lg {
     padding: 52px;
   }
@@ -3020,6 +3089,29 @@ img {
   .lg-pad-right-md {
     padding-right: 26px;
   }
+  .lg-pad-mdlg {
+    padding: 39px;
+  }
+  .lg-pad-h-mdlg {
+    padding-left: 39px;
+    padding-right: 39px;
+  }
+  .lg-pad-v-mdlg {
+    padding-top: 39px;
+    padding-bottom: 39px;
+  }
+  .lg-pad-top-mdlg {
+    padding-top: 39px;
+  }
+  .lg-pad-bottom-mdlg {
+    padding-bottom: 39px;
+  }
+  .lg-pad-left-mdlg {
+    padding-left: 39px;
+  }
+  .lg-pad-right-mdlg {
+    padding-right: 39px;
+  }
   .lg-pad-lg {
     padding: 52px;
   }
@@ -3784,6 +3876,29 @@ img {
   }
   .xl-pad-right-md {
     padding-right: 26px;
+  }
+  .xl-pad-mdlg {
+    padding: 39px;
+  }
+  .xl-pad-h-mdlg {
+    padding-left: 39px;
+    padding-right: 39px;
+  }
+  .xl-pad-v-mdlg {
+    padding-top: 39px;
+    padding-bottom: 39px;
+  }
+  .xl-pad-top-mdlg {
+    padding-top: 39px;
+  }
+  .xl-pad-bottom-mdlg {
+    padding-bottom: 39px;
+  }
+  .xl-pad-left-mdlg {
+    padding-left: 39px;
+  }
+  .xl-pad-right-mdlg {
+    padding-right: 39px;
   }
   .xl-pad-lg {
     padding: 52px;
