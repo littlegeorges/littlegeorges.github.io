@@ -3,6 +3,8 @@
 	var top;
 
 	var determineTopAndWidth = function() {
+		el_lg_jump_menu.classList.remove('lg-jump-menu-fixed');
+		el_lg_jump_menu.style.width = null;
 		var original_width = window.getComputedStyle(el_lg_jump_menu).width;
 		el_lg_jump_menu.style.width = original_width;
 		var jump_menu_rect = el_lg_jump_menu.getBoundingClientRect();
@@ -18,6 +20,8 @@
 	// The only difference is that the sidebar will
 	// "stick" a little earlier than intended.
 	setTimeout(determineTopAndWidth, 500);
+
+	window.onresize = determineTopAndWidth;
 
 	window.onscroll = function(e) {
 		var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
