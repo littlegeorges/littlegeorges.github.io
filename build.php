@@ -62,7 +62,6 @@ foreach ($locations as &$location) {
 	generate_menu_page($location);
 }
 
-recurse_copy('css', STATIC_SITE_FOLDER.'/css');
 recurse_copy('js', STATIC_SITE_FOLDER.'/js');
 recurse_copy('images', STATIC_SITE_FOLDER.'/images');
 

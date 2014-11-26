@@ -9,7 +9,6 @@ function page_top($title, $locations, $path_to_root = './') {
 <head>
 	<meta charset="utf-8">
 	<title><?php echo $title; ?></title>
-	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/ghetto-box.css">
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
