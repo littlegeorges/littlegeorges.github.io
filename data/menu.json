@@ -11,7 +11,7 @@
         "menu_items": [
             {
                 "title": "Spinach Delight",
-                "description": "Spinach, Tomatoes, Onions, Green Peppers, Feta Cheese, Tomato Sauce\n",
+                "description": "Spinach, Tomatoes, Onions, Green Peppers, Feta Cheese, Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -24,7 +24,7 @@
             },
             {
                 "title": "Mediterranean Classic",
-                "description": "Spinach Leaves, Onions, Olives, Feta Cheese, Banana Peppers, Tomatoes, Fresh Garlic, Cheese, Tomato Sauce\n",
+                "description": "Spinach Leaves, Onions, Olives, Feta Cheese, Banana Peppers, Tomatoes, Fresh Garlic, Cheese, Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -37,7 +37,7 @@
             },
             {
                 "title": "Chicken Club Classic",
-                "description": "Grilled Chicken Breast, Smoked Bacon, Onions, Tomatoes, Lotsa Mozza, Cheese & Tomato Sauce\n",
+                "description": "Grilled Chicken Breast, Smoked Bacon, Onions, Tomatoes, Lotsa Mozza, Cheese & Tomato Sauce",
                 "price": [
                     "22.95",
                     "27.95",
@@ -49,8 +49,8 @@
                 ]
             },
             {
-                "title": "House Special",
-                "description": "Pepperoni, Mushrooms, Ham, Green Pepper, Olives, Tomatoes, Cheese & Tomato Sauce\n",
+                "title": "House Specials",
+                "description": "Pepperoni, Mushrooms, Ham, Green Pepper, Olives, Tomatoes, Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -63,7 +63,7 @@
             },
             {
                 "title": "Vegetarian Special",
-                "description": "Mushrooms, Green Peppers, Cheese, Onions, Olives, Tomatoes, Pineapple, Tomato Sauce\n",
+                "description": "Mushrooms, Green Peppers, Cheese, Onions, Olives, Tomatoes, Pineapple, Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -76,7 +76,7 @@
             },
             {
                 "title": "Classic Hawaiian",
-                "description": "Canadian Ham, Smoked Bacon, Pineapple, Cheddar Cheese, Mozzarella Cheese & Tomato Sauce\n",
+                "description": "Canadian Ham, Smoked Bacon, Pineapple, Cheddar Cheese, Mozzarella Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -89,7 +89,7 @@
             },
             {
                 "title": "Peter Piper Cheddar Chicken Melt",
-                "description": "Julian Chicken, Onion, Tomatoes, Cheddar, Mozzarella Cheese & Our Ultimate B.B.Q Sauce\n",
+                "description": "Julian Chicken, Onion, Tomatoes, Cheddar, Mozzarella Cheese & Our Ultimate B.B.Q Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -102,7 +102,7 @@
             },
             {
                 "title": "Meat Lover's Special",
-                "description": "Pepperoni, Salami, Ham, Bacon, Beef, Cheese & Tomato Sauce\n",
+                "description": "Pepperoni, Salami, Ham, Bacon, Beef, Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -115,7 +115,7 @@
             },
             {
                 "title": "Seafood Special",
-                "description": "Crabmeat, Scallops, Shrimp, Mozzarella Cheese, Cheddar Cheese & Tomato Sauce\n",
+                "description": "Crabmeat, Scallops, Shrimp, Mozzarella Cheese, Cheddar Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -128,7 +128,7 @@
             },
             {
                 "title": "Greek Italian",
-                "description": "Pepperoni, onions, Olives, Green Pepper, Tomatoes, Feta Cheese, Mozzarella Cheese& Tomato Cheese\n",
+                "description": "Pepperoni, onions, Olives, Green Pepper, Tomatoes, Feta Cheese, Mozzarella Cheese& Tomato Cheese",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -141,7 +141,7 @@
             },
             {
                 "title": "Bacon Cheddar Melt",
-                "description": "Pepperoni, Smoked Bacon, Beef, Mozzarella Cheese, Cheddar Cheese & Tomato Sauce\n",
+                "description": "Pepperoni, Smoked Bacon, Beef, Mozzarella Cheese, Cheddar Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -154,7 +154,7 @@
             },
             {
                 "title": "Chef's Mistake",
-                "description": "Pepperoni, Mushrooms, Ham, Italian Sausage, Onions, Green Peppers, Olives, Pineapple, Cheese & Tomato Sauce\n",
+                "description": "Pepperoni, Mushrooms, Ham, Italian Sausage, Onions, Green Peppers, Olives, Pineapple, Cheese & Tomato Sauce",
                 "price": [
                     "$24.95",
                     "$30.95",
@@ -167,7 +167,7 @@
             },
             {
                 "title": "All Dressed",
-                "description": "Pepperoni, Mushrooms, Ham, Beef, Olives, Onions, Green Pepper, Pineapple, Shrimp, Tomatoes, Cheese & Tomato Sauce\n",
+                "description": "Pepperoni, Mushrooms, Ham, Beef, Olives, Onions, Green Pepper, Pineapple, Shrimp, Tomatoes, Cheese & Tomato Sauce",
                 "price": [
                     "$25.95",
                     "$31.95",
@@ -180,7 +180,7 @@
             },
             {
                 "title": "The Mexican",
-                "description": "Beef, Green Pepper, Tomatoes, Cheddar Cheese, Hot Banana Peppers, Mozzarella Cheese & Tomato Sauce\n",
+                "description": "Beef, Green Pepper, Tomatoes, Cheddar Cheese, Hot Banana Peppers, Mozzarella Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -193,7 +193,7 @@
             },
             {
                 "title": "Bacon Chicken Alfredo",
-                "description": "Grilled Chicken Breast, Bacon, Red Onions, Green Peppers, Alfredo Sauce\n",
+                "description": "Grilled Chicken Breast, Bacon, Red Onions, Green Peppers, Alfredo Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -206,7 +206,7 @@
             },
             {
                 "title": "Chipotle Chicken",
-                "description": "Grilled Chicken Breast, Red Onions, Green Peppers, Tomatoes & our very own Chipotle Sauce\n",
+                "description": "Grilled Chicken Breast, Red Onions, Green Peppers, Tomatoes & our very own Chipotle Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -219,7 +219,7 @@
             },
             {
                 "title": "Classic Meat Ball",
-                "description": "Pepperoni, Roasted Meatballs, Red Onions, Cheddar Cheese & Tomato Sauce\n",
+                "description": "Pepperoni, Roasted Meatballs, Red Onions, Cheddar Cheese & Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -232,7 +232,7 @@
             },
             {
                 "title": "Classic Pesto Chicken",
-                "description": "Grilled Chicken, Spinach, Red Onions, Tomatoes & our own Pesto Sauce\n",
+                "description": "Grilled Chicken, Spinach, Red Onions, Tomatoes & our own Pesto Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -245,7 +245,7 @@
             },
             {
                 "title": "Butter Chicken Classic",
-                "description": "Grilled Chicken Breast, Bacon, Red Onions, Mozza & Cheddar Cheese, Tomatoes, our very own Butter Chicken Sauce\n",
+                "description": "Grilled Chicken Breast, Bacon, Red Onions, Mozza & Cheddar Cheese, Tomatoes, our very own Butter Chicken Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -258,7 +258,7 @@
             },
             {
                 "title": "The Big Cheese Bonanza",
-                "description": "Cheddar Cheese, Mozza Cheese, Feta Cheese, Parmesan Cheese and all the Cheese!\n",
+                "description": "Cheddar Cheese, Mozza Cheese, Feta Cheese, Parmesan Cheese and all the Cheese!",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -271,7 +271,7 @@
             },
             {
                 "title": "Classic Teriyaki Chicken",
-                "description": "Grilled Teriyaki Chicken, Green Pepper, Red Onion, Tomatoes & our own Tomato Sauce\n",
+                "description": "Grilled Teriyaki Chicken, Green Pepper, Red Onion, Tomatoes & our own Tomato Sauce",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -286,7 +286,7 @@
     },
     {
         "title": "Charbroiled Burgers",
-        "section_notes": "Add caesar salad for a $1.00\nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.\n",
+        "section_notes": "Add caesar salad for a $1.00  \nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.",
         "end_notes": "",
         "display_format": "",
         "locations": [
@@ -375,7 +375,7 @@
             },
             {
                 "title": "Salmon Burger",
-                "description": "Served with lettuce, onion, tomato, and chipotle mayo.\n",
+                "description": "Served with lettuce, onion, tomato, and chipotle mayo.",
                 "price": [
                     "$12.95"
                 ],
@@ -385,7 +385,7 @@
             },
             {
                 "title": "Charbroiled Veggie Burger",
-                "description": "Served with lettuce, onions, tomatoes, and chipotle mayo\n",
+                "description": "Served with lettuce, onions, tomatoes, and chipotle mayo",
                 "price": [
                     "$12.95"
                 ],
@@ -397,7 +397,7 @@
     },
     {
         "title": "Salads",
-        "section_notes": "All served with garlic toast  \nAdd Cajun Prawns (6 pieces) - $4.95  \nAdd Cold Water Shrimp - $3.95  \nAdd Chicken Breast - $4.95\n",
+        "section_notes": "All served with garlic toast  \nAdd Cajun Prawns (6 pieces) - $4.95  \nAdd Cold Water Shrimp - $3.95  \nAdd Chicken Breast - $4.95",
         "end_notes": "",
         "display_format": "",
         "locations": [
@@ -407,7 +407,7 @@
         "menu_items": [
             {
                 "title": "Chef's Salad",
-                "description": "Consists of crisp Romaine, cucumbers, tomatoes, ham, cheddar cheese, and your choice of dressing\n",
+                "description": "Consists of crisp Romaine, cucumbers, tomatoes, ham, cheddar cheese, and your choice of dressing",
                 "price": [
                     "Regular 8.95",
                     "Large 11.95"
@@ -419,7 +419,7 @@
             },
             {
                 "title": "Caesar Salad",
-                "description": "Prepared with our own creamy Caesar dressing, croutons, and parmesan cheese\n",
+                "description": "Prepared with our own creamy Caesar dressing, croutons, and parmesan cheese",
                 "price": [
                     "Regular 8.95",
                     "Large 11.95"
@@ -431,7 +431,7 @@
             },
             {
                 "title": "Teriyaki Chicken Caesar",
-                "description": "Caesar salad topped with grilled chicken breast, marinated in our own teriyaki sauce.\n",
+                "description": "Caesar salad topped with grilled chicken breast, marinated in our own teriyaki sauce.",
                 "price": [
                     "$12.95"
                 ],
@@ -442,7 +442,7 @@
             },
             {
                 "title": "Hot & Spicy Chicken Caesar",
-                "description": "Caesar salad topped with a generous portion of our own spicy chicken.\n",
+                "description": "Caesar salad topped with a generous portion of our own spicy chicken.",
                 "price": [
                     "$12.95"
                 ],
@@ -453,7 +453,7 @@
             },
             {
                 "title": "Greek Salad",
-                "description": "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.\n",
+                "description": "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.",
                 "price": [
                     "Regular 8.95",
                     "Large 12.95"
@@ -465,7 +465,7 @@
             },
             {
                 "title": "Classic Mandarin Spinach Salad",
-                "description": "Baby spinach leaves, red onions, tomatoes topped with candied walnuts and cranberries. Served with raspberry vinaigrette and mandarin slices.\n",
+                "description": "Baby spinach leaves, red onions, tomatoes topped with candied walnuts and cranberries. Served with raspberry vinaigrette and mandarin slices.",
                 "price": [
                     "$10.95"
                 ],
@@ -478,7 +478,7 @@
     },
     {
         "title": "Specialty Pastas",
-        "section_notes": "served with garlic toast\n",
+        "section_notes": "served with garlic toast",
         "end_notes": "",
         "display_format": "two-col",
         "locations": [
@@ -487,7 +487,7 @@
         "menu_items": [
             {
                 "title": "Fettuccini Alfredo with Ham",
-                "description": "Fettuccini noodles tossed in our own Alfredo sauce and ham topped with Parmesan cheese.\n",
+                "description": "Fettuccini noodles tossed in our own Alfredo sauce and ham topped with Parmesan cheese.",
                 "price": [
                     "$15.95"
                 ],
@@ -497,7 +497,7 @@
             },
             {
                 "title": "Grilled Chicken Fettuccini",
-                "description": "Sliced grilled chicken breast tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheese.\n",
+                "description": "Sliced grilled chicken breast tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheese.",
                 "price": [
                     "$15.95"
                 ],
@@ -507,7 +507,7 @@
             },
             {
                 "title": "Spaghettini a la George",
-                "description": "Spaghettini noodles tossed with fresh garlic, red onions, peppers, alfredo sauce and grilled chicken breast. Topped with parmesan cheese.\n",
+                "description": "Spaghettini noodles tossed with fresh garlic, red onions, peppers, alfredo sauce and grilled chicken breast. Topped with parmesan cheese.",
                 "price": [
                     "$15.95"
                 ],
@@ -517,7 +517,7 @@
             },
             {
                 "title": "Pesto Chicken Fettuccini",
-                "description": "Sliced grilled chicken breast tossed in our homemade pesto sauce and fettuccini noodles topped with parmesan cheese.\n",
+                "description": "Sliced grilled chicken breast tossed in our homemade pesto sauce and fettuccini noodles topped with parmesan cheese.",
                 "price": [
                     "$15.95"
                 ],
@@ -527,7 +527,7 @@
             },
             {
                 "title": "Shrimp Fettuccini",
-                "description": "Cold water, plump shrimps tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.\n",
+                "description": "Cold water, plump shrimps tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.",
                 "price": [
                     "$15.95"
                 ],
@@ -537,7 +537,7 @@
             },
             {
                 "title": "Tiger Prawn Fettuccini",
-                "description": "Saut\u00e9ed tiger prawns tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.\n",
+                "description": "Saut\u00e9ed tiger prawns tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.",
                 "price": [
                     "$16.95"
                 ],
@@ -547,7 +547,7 @@
             },
             {
                 "title": "Grilled Butter Chicken Fettuccini",
-                "description": "Sliced grilled chicken breast tossed in our own butter chicken sauce and fettuccini noodles, topped with parmesan cheese.\n",
+                "description": "Sliced grilled chicken breast tossed in our own butter chicken sauce and fettuccini noodles, topped with parmesan cheese.",
                 "price": [
                     "$15.95"
                 ],
@@ -557,7 +557,7 @@
             },
             {
                 "title": "Cajun Prawns Fettuccini",
-                "description": "Saut\u00e9ed tiger prawns tossed in our own cajun spice and fettuccini noodles topped with parmesan cheese.\n",
+                "description": "Saut\u00e9ed tiger prawns tossed in our own cajun spice and fettuccini noodles topped with parmesan cheese.",
                 "price": [
                     "$16.95"
                 ],
@@ -569,7 +569,7 @@
     },
     {
         "title": "2 for 1 Pasta",
-        "section_notes": "Add meatballs or extra cheese for $2.00  \n$6.00 discount on single order\n",
+        "section_notes": "Add meatballs or extra cheese for $2.00  \n$6.00 discount on single order",
         "end_notes": "",
         "display_format": "",
         "locations": [
@@ -579,7 +579,7 @@
         "menu_items": [
             {
                 "title": "Steamed Spaghetti",
-                "description": "with meat sauce or veggie sauce\n",
+                "description": "with meat sauce or veggie sauce",
                 "price": [
                     "$18.95"
                 ],
@@ -590,7 +590,7 @@
             },
             {
                 "title": "Baked Spaghetti",
-                "description": "with meat sauce or veggie sauce\n",
+                "description": "with meat sauce or veggie sauce",
                 "price": [
                     "$19.95"
                 ],
@@ -601,7 +601,7 @@
             },
             {
                 "title": "Baked Lasagna",
-                "description": "with meat sauce or veggie sauce\n",
+                "description": "with meat sauce or veggie sauce",
                 "price": [
                     "$19.95"
                 ],
@@ -612,7 +612,7 @@
             },
             {
                 "title": "Baked Ravioli",
-                "description": "with meat sauce or veggie sauce\n",
+                "description": "with meat sauce or veggie sauce",
                 "price": [
                     "$20.95"
                 ],
@@ -623,7 +623,7 @@
             },
             {
                 "title": "Baked Tortellini",
-                "description": "with meat sauce or veggie sauce\n",
+                "description": "with meat sauce or veggie sauce",
                 "price": [
                     "$20.95"
                 ],
@@ -634,7 +634,7 @@
             },
             {
                 "title": "Baked Spinach & Cheese Cannelloni",
-                "description": "with meat sauce or veggie sauce\n",
+                "description": "with meat sauce or veggie sauce",
                 "price": [
                     "$21.95"
                 ],
@@ -669,7 +669,7 @@
     },
     {
         "title": "Appetizers",
-        "section_notes": "(this section is not 2 for 1)\n",
+        "section_notes": "(this section is not 2 for 1)",
         "end_notes": "",
         "display_format": "",
         "locations": [
@@ -690,7 +690,7 @@
             },
             {
                 "title": "Chicken Fingers",
-                "description": "served with a dip\n",
+                "description": "served with a dip",
                 "price": [
                     "$9.95"
                 ],
@@ -701,7 +701,7 @@
             },
             {
                 "title": "Deep Fried Mushrooms",
-                "description": "with Tzatziki dip\n",
+                "description": "with Tzatziki dip",
                 "price": [
                     "$7.95"
                 ],
@@ -712,7 +712,7 @@
             },
             {
                 "title": " Deep Fries Zucchini",
-                "description": "with Tzatziki dip\n",
+                "description": "with Tzatziki dip",
                 "price": [
                     "$7.95"
                 ],
@@ -723,7 +723,7 @@
             },
             {
                 "title": " Fresh Calamari",
-                "description": "with Tzatziki dip\n",
+                "description": "with Tzatziki dip",
                 "price": [
                     "$10.95"
                 ],
@@ -734,7 +734,7 @@
             },
             {
                 "title": " Deep Fried Mozza Sticks",
-                "description": "with Tzatziki dip\n",
+                "description": "with Tzatziki dip",
                 "price": [
                     "$8.95"
                 ],
@@ -756,7 +756,7 @@
             },
             {
                 "title": "Grilled Focaccia Bread",
-                "description": "served with extra virgin olive oil with balsamic.\n",
+                "description": "served with extra virgin olive oil with balsamic.",
                 "price": [
                     "$4.95"
                 ],
@@ -767,7 +767,7 @@
             },
             {
                 "title": "Cheezy Bread",
-                "description": "A pizza shell with garlic butter, mozza and cheddar blend baked in the oven. Served with ranch dip.\n",
+                "description": "A pizza shell with garlic butter, mozza and cheddar blend baked in the oven. Served with ranch dip.",
                 "price": [
                     "$7.95"
                 ],
@@ -778,7 +778,7 @@
             },
             {
                 "title": "Tweety Bread",
-                "description": "A pizza shell with garlic butter baked in the oven. Topped with parmesan and herbs. Served with ranch dip.\n",
+                "description": "A pizza shell with garlic butter baked in the oven. Topped with parmesan and herbs. Served with ranch dip.",
                 "price": [
                     "$7.95"
                 ],
@@ -789,7 +789,7 @@
             },
             {
                 "title": "Deep Fried Prawns ",
-                "description": "6 pieces, served with cocktail sauce.\n",
+                "description": "6 pieces, served with cocktail sauce.",
                 "price": [
                     "$8.95"
                 ],
@@ -800,7 +800,7 @@
             },
             {
                 "title": "Chicken Wings",
-                "description": "1 pound. (Hot and Spicy, Teriyaki or B.B.Q)\n",
+                "description": "1 pound. (Hot and Spicy, Teriyaki or B.B.Q)",
                 "price": [
                     "$10.95"
                 ],
@@ -811,7 +811,7 @@
             },
             {
                 "title": "Dry Garlic Ribs",
-                "description": "served with plum sauce.\n",
+                "description": "served with plum sauce.",
                 "price": [
                     "$9.95"
                 ],
@@ -822,7 +822,7 @@
             },
             {
                 "title": "Munchie Basket",
-                "description": "Chicken fingers, mozza sticks, zucchini and mushrooms.\n",
+                "description": "Chicken fingers, mozza sticks, zucchini and mushrooms.",
                 "price": [
                     "$15.95"
                 ],
@@ -833,7 +833,7 @@
             },
             {
                 "title": "Poutine",
-                "description": "Fries, gravy and mozza.\n",
+                "description": "Fries, gravy and mozza.",
                 "price": [
                     "$6.95"
                 ],
@@ -844,7 +844,7 @@
             },
             {
                 "title": "Yam Fries",
-                "description": "served with chipolte mayo.\n",
+                "description": "served with chipolte mayo.",
                 "price": [
                     "$6.95"
                 ],
@@ -865,8 +865,8 @@
                 ]
             },
             {
-                "title": "Bruschetta",
-                "description": "Toasted French bread with olive oil, pesto basil, topped with diced tomatoes, red onions, baked with mozza, cheddar and parmesan.\n",
+                "title": "Bruchetta",
+                "description": "Toasted French bread with olive oil, pesto basil, topped with diced tomatoes, red onions, baked with mozza, cheddar and parmesan.",
                 "price": [
                     "$7.95"
                 ],
@@ -877,7 +877,7 @@
             },
             {
                 "title": "Popcorn Shrimp",
-                "description": "served with seafood sauce\n",
+                "description": "served with seafood sauce",
                 "price": [
                     "$9.95"
                 ],
@@ -888,7 +888,7 @@
             },
             {
                 "title": "Jalapeno Poppers",
-                "description": "served with sweet chilli sauce\n",
+                "description": "served with sweet chilli sauce",
                 "price": [
                     "$9.95"
                 ],
@@ -912,7 +912,7 @@
     },
     {
         "title": "House Specialties",
-        "section_notes": "(this section is not 2 for 1)\n",
+        "section_notes": "(this section is not 2 for 1)",
         "end_notes": "",
         "display_format": "",
         "locations": [
@@ -922,7 +922,7 @@
         "menu_items": [
             {
                 "title": "1\/2 BBQ Chicken ",
-                "description": "Tender chicken prepared in our own BBQ sauce.\n",
+                "description": "Tender chicken prepared in our own BBQ sauce.",
                 "price": [
                     "$16.95"
                 ],
@@ -933,7 +933,7 @@
             },
             {
                 "title": "BBQ Ribs",
-                "description": "Tender baby back ribs prepared with herbs and spices in our own BBQ sauce.\n",
+                "description": "Tender baby back ribs prepared with herbs and spices in our own BBQ sauce.",
                 "price": [
                     "$19.95"
                 ],
@@ -944,7 +944,7 @@
             },
             {
                 "title": "BBQ Chicken & Ribs",
-                "description": "All the above served with saladm garlic bread and choice of baked potato, rice orsteamed spaghetti or substitute baked pasta for $2.00.\n",
+                "description": "All the above served with saladm garlic bread and choice of baked potato, rice orsteamed spaghetti or substitute baked pasta for $2.00.",
                 "price": [
                     "$19.95"
                 ],
@@ -955,7 +955,7 @@
             },
             {
                 "title": "Teriyaki Chicken Breast Dinner",
-                "description": "Succulent breast of chicken, broiled to perfection with Teriyaki sauce. Served with salad, garlic bread and choice of baked potato, rice or fries.\n",
+                "description": "Succulent breast of chicken, broiled to perfection with Teriyaki sauce. Served with salad, garlic bread and choice of baked potato, rice or fries.",
                 "price": [
                     "$18.95"
                 ],
@@ -966,7 +966,7 @@
             },
             {
                 "title": "Greek Style Chicken Breast Dinner",
-                "description": "Two succulent breast of chicken, marinated in lemon, oregano, olive oil and spices grilled to perfection. Served with rice, greek salad and pita bread.\n",
+                "description": "Two succulent breast of chicken, marinated in lemon, oregano, olive oil and spices grilled to perfection. Served with rice, greek salad and pita bread.",
                 "price": [
                     "$18.95"
                 ],
@@ -977,7 +977,7 @@
             },
             {
                 "title": "Butter Chicken Dinner",
-                "description": "Grilled chicken breast cooked to perfection in our own butter chicken sauce. Served on a bed of rice and comes with a Caesar salad.\n",
+                "description": "Grilled chicken breast cooked to perfection in our own butter chicken sauce. Served on a bed of rice and comes with a Caesar salad.",
                 "price": [
                     "$16.95"
                 ],
@@ -988,7 +988,7 @@
             },
             {
                 "title": "Grilled Curried Prawn Dinner",
-                "description": "Curried prawns served on a bed of rice and comes with a Caesar salad.\n",
+                "description": "Curried prawns served on a bed of rice and comes with a Caesar salad.",
                 "price": [
                     "$16.95"
                 ],
@@ -999,7 +999,7 @@
             },
             {
                 "title": "Roast Lamb Shank",
-                "description": "Braised lamb shank cooked with herbs, rosemary and spices. With a choice of roast potatoes or rice with Greek salad.\n",
+                "description": "Braised lamb shank cooked with herbs, rosemary and spices. With a choice of roast potatoes or rice with Greek salad.",
                 "price": [
                     "$18.95"
                 ],
@@ -1010,7 +1010,7 @@
             },
             {
                 "title": "Chicken Strips Dinner",
-                "description": "Served with fries or Caesar salad and garlic bread.\n",
+                "description": "Served with fries or Caesar salad and garlic bread.",
                 "price": [
                     "$12.95"
                 ],
@@ -1021,7 +1021,7 @@
             },
             {
                 "title": "Calamari Dinner",
-                "description": "With Caesar or Greek Combo. Served with pita bread or tzatziki.\n",
+                "description": "With Caesar or Greek Combo. Served with pita bread or tzatziki.",
                 "price": [
                     "$13.95"
                 ],
@@ -1032,7 +1032,7 @@
             },
             {
                 "title": "Fried Chicken Dinner ",
-                "description": "Served with fries or Caesar salad and garlic bread.\n",
+                "description": "Served with fries or Caesar salad and garlic bread.",
                 "price": [
                     "$13.95 3pc",
                     "$16.95 6pc"
@@ -1044,7 +1044,7 @@
             },
             {
                 "title": "Little George's Hot Sandwich",
-                "description": "A fresh loaf of Italian bread with tomato sauce, pepperoni, ham, onions and mozzarella cheese baked in the oven.\n",
+                "description": "A fresh loaf of Italian bread with tomato sauce, pepperoni, ham, onions and mozzarella cheese baked in the oven.",
                 "price": [
                     "Whole Loaf $13.95",
                     "Half Loaf $7.95"
@@ -1056,7 +1056,7 @@
             },
             {
                 "title": "Garlic Prawn Dinner",
-                "description": "Succulent prawns pan fried with garlic butter and white wine. Served with choice of rice, roast potatoes or baked potato and Caesar Salad or Tossed salad & garlic bread\n",
+                "description": "Succulent prawns pan fried with garlic butter and white wine. Served with choice of rice, roast potatoes or baked potato and Caesar Salad or Tossed salad & garlic bread",
                 "price": [
                     "$17.95"
                 ],
@@ -1067,7 +1067,7 @@
             },
             {
                 "title": "Veal Parmesan",
-                "description": "Served with Spaghettini Noodles and Caesar salad or tossed salad\n",
+                "description": "Served with Spaghettini Noodles and Caesar salad or tossed salad",
                 "price": [
                     "$17.95"
                 ],
@@ -1078,7 +1078,7 @@
             },
             {
                 "title": "Mediterranean Lamb Chops",
-                "description": "Lamb Chops marinated with herbs and spices grilled to perfection. Served with a choice of roast potatoes or rice and Greek salad & pita bread\n",
+                "description": "Lamb Chops marinated with herbs and spices grilled to perfection. Served with a choice of roast potatoes or rice and Greek salad & pita bread",
                 "price": [
                     "$18.95"
                 ],
@@ -1091,8 +1091,8 @@
     },
     {
         "title": "Charbroiled Steaks",
-        "section_notes": "(Cut from Canadian Best Cut Meats)  \nSterlingSilver AAA The Best!!!  \nAdd skewer of garlic prawns - $4.95\n",
-        "end_notes": "All above served with Caesar or Tossed salad, garlic bread, and choice of baked potato, rice or roast potatoes.\n",
+        "section_notes": "(Cut from Canadian Best Cut Meats)  \nSterlingSilver AAA The Best!!!  \nAdd skewer of garlic prawns - $4.95",
+        "end_notes": "All above served with Caesar or Tossed salad, garlic bread, and choice of baked potato, rice or roast potatoes.",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1121,7 +1121,7 @@
         "menu_items": [
             {
                 "title": "Beef Souvlaki",
-                "description": "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.\n",
+                "description": "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.",
                 "price": [
                     "$17.95"
                 ],
@@ -1131,7 +1131,7 @@
             },
             {
                 "title": "Chicken Souvlaki",
-                "description": "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.\n",
+                "description": "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.",
                 "price": [
                     "$17.95"
                 ],
@@ -1143,7 +1143,7 @@
     },
     {
         "title": "Steak & Pasta Combos",
-        "section_notes": "Served with Caesar or tossed salad & garlic toast\n",
+        "section_notes": "Served with Caesar or tossed salad & garlic toast",
         "end_notes": "",
         "display_format": "mini",
         "locations": [
@@ -1164,7 +1164,7 @@
     },
     {
         "title": " New Yorker Steak Sandwich",
-        "section_notes": "$15.95\nServed with fries or Caesar salad.\n",
+        "section_notes": "$15.95\nServed with fries or Caesar salad.",
         "end_notes": "",
         "display_format": "mini",
         "locations": [
@@ -1184,8 +1184,89 @@
         ]
     },
     {
+        "title": "Combo Specials",
+        "section_notes": "",
+        "end_notes": "",
+        "display_format": "combo",
+        "locations": [
+            "north-nanaimo"
+        ],
+        "menu_items": [
+            {
+                "title": "Combo #1",
+                "description": "1 Sm. Pizza (2 toppings)  \n1 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad",
+                "price": [
+                    "$23.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #2",
+                "description": "1 Sm. Pizza (2 toppings)  \n1 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n10 pc. Chicken Wings",
+                "price": [
+                    "$33.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #3",
+                "description": "1 Med. Pizza (2 toppings)  \n1 Tossed Salad  \n1 Pasta with Meat Sauce  \n1 Piece of Garlic Toast  \n1 Order of Fries  \n10 pc. Chicken Wings",
+                "price": [
+                    "$36.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #4",
+                "description": "1 Large Pizza (2 toppings)  \n2 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n10 pc. Chicken Wings",
+                "price": [
+                    "$41.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #5",
+                "description": "2 Med. Pizza (2 toppings)  \n2 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Tossed Salad & 2 Pop",
+                "price": [
+                    "$39.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #6",
+                "description": "3 Pasta with Meat Sauce  \n3 pc. Garlic Toast  \n(Spaghetti & Lasagna)",
+                "price": [
+                    "$25.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #7",
+                "description": "1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n2 pc. Garlic Toast  \n1 Cheezy Bread",
+                "price": [
+                    "$23.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            }
+        ]
+    },
+    {
         "title": "Make Your Own 2 for 1",
-        "section_notes": "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic\n",
+        "section_notes": "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic",
         "end_notes": "",
         "display_format": "table",
         "locations": [

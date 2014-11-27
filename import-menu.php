@@ -7,7 +7,7 @@ function url_slug($name) {
 	return strtolower(str_replace(' ', '-', $name));
 }
 
-$exported_menu = json_decode(file_get_contents('cms-export.json'));
+$exported_menu = json_decode(file_get_contents('data/cms-export.json'));
 
 $menu_sections = [];
 $current_section_name = null;
@@ -38,4 +38,4 @@ foreach ($exported_menu->menu as $record) {
 }
 $menu_sections[] = $menu_section;
 
-file_put_contents('menu.json', json_encode($menu_sections, JSON_PRETTY_PRINT));
+file_put_contents('data/menu.json', json_encode($menu_sections, JSON_PRETTY_PRINT));
