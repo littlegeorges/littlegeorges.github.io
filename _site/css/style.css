@@ -4059,7 +4059,7 @@ a {
 .lg-jump-menu_item {
   display: block;
   background-color: rgba(174,0,28,0.9);
-  color: #fff;
+  color: #ededed;
   text-shadow: -1px -1px 0 #850015, 1px 1px 0 #b9243c;
   margin-top: -1px;
   box-shadow: 1px 1px 2px rgba(255,191,127,0.25) inset;
@@ -4073,7 +4073,7 @@ a {
 }
 .lg-jump-menu_link {
   display: block;
-  color: #fff;
+  color: #ededed;
   padding: 2px 12px;
 }
 .lg-jump-menu_link:hover {
