@@ -1,3 +1,18 @@
+color-black = #111
+color-white = #EDEDED
+
+// red
+color1 = rgba(174,0,28,.9)
+
+// off-white
+color2 = #e5e2dc
+
+// gold
+color3 = lighten(#E2C98B,20%)
+
+// green
+color4 = #00A551
+
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700)
 @import 'ghetto-box/ghetto-box.styl'
 
@@ -26,26 +41,14 @@ a
 .readable
 	max-width 30em
 
-// red
-color1 = rgba(174,0,28,.9)
-
-// off-white
-color2 = #e5e2dc
-
-// gold
-color3 = lighten(#E2C98B,20%)
-
-// green
-color4 = #00A551
-
 .cs-0
 	background-color #ffe9c6
 	background-image url(../images/background.png)
 	color #333
 
 .cs-1
-	background-color #111
-	color white
+	background-color color-black
+	color color-white
 
 .cs-3
 	background-color color1
@@ -55,7 +58,7 @@ color4 = #00A551
 	color color3
 	
 .border-1
-	border-top 1px solid black
+	border-top 1px solid color-black
 
 .lg-jump-menu
 	box-shadow 1px 2px 3px 1px rgba(0,0,0,0.3)
@@ -65,14 +68,14 @@ color4 = #00A551
 	border-radius 14px
 	overflow hidden
 
-	background-color black
+	background-color color-black
 	padding-left 2px
 	padding-right 2px
 
 .lg-jump-menu_item
 	display block
 	background-color color1
-	color #EDEDED
+	color color-white
 	text-shadow:
 		-1px -1px 0 shade(color1, 20%),
 		1px 1px 0 tint(color1, 12%);
@@ -127,7 +130,7 @@ color4 = #00A551
 		width 80% /* fallback */
 		width calc(100% - 26px)
 		height 100%
-		background-color black
+		background-color color-black
 		box-shadow 1px 0 2px 1px rgba(0,0,0,0.3)
 		
 section-color = alpha(color1,1.0)
