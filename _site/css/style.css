@@ -4046,7 +4046,7 @@ a {
   border-top: 1px solid #000;
 }
 .lg-jump-menu {
-  box-shadow: 3px 3px 3px 2px rgba(0,0,0,0.4);
+  box-shadow: 1px 2px 3px 1px rgba(0,0,0,0.3);
   border-style: solid;
   border-color: #00a551;
   border-width: 0 2px;
@@ -4111,6 +4111,7 @@ a {
   width: calc(100% - 26px);
   height: 100%;
   background-color: #000;
+  box-shadow: 1px 0 2px 1px rgba(0,0,0,0.3);
 }
 .section-title:target {
   -webkit-animation: highlight;
@@ -4124,7 +4125,7 @@ a {
 }
 .section-title {
   color: #ae001c;
-  text-shadow: 1px 1px 0 #ffe9c6;
+  text-shadow: -1px -1px 0 #ffe0af, 1px 1px 0 #ffe9c6;
 }
 .section-title:before,
 .section-title:after {
