@@ -4060,7 +4060,7 @@ a {
   display: block;
   background-color: rgba(174,0,28,0.9);
   color: #fff;
-  text-shadow: 2px 2px 2px #222;
+  text-shadow: -1px -1px 0 #850015, 1px 1px 0 #b9243c;
   margin-top: -1px;
   box-shadow: 1px 1px 2px rgba(255,191,127,0.25) inset;
 }
@@ -4077,7 +4077,6 @@ a {
   padding: 2px 12px;
 }
 .lg-jump-menu_link:hover {
-  text-shadow: 1px 1px 3px #222;
   background-color: rgba(177,0,29,0.9);
 }
 .lg-jump-menu_link:active {
