@@ -40,7 +40,7 @@ function page_top($title, $locations, $path_to_root = './') {
 			</div>
 		</div>
 	</div>
-	<div class="cs-3 h-1">
+	<div class="cs-3 h-1 fx-popout">
 		<div class="container pad-left-md">
 			<a title="home" href="<?php echo $path_to_root; ?>">
 				<img
