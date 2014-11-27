@@ -9,11 +9,12 @@ function page_top($title, $locations, $path_to_root = './') {
 <head>
 	<meta charset="utf-8">
 	<title><?php echo $title; ?></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
 	<div class="stack cs-1">
-		<div class="container tiles tiles-justify pad-v-md">
+		<div class="container tiles tiles-center sm-tiles-justify pad-v-md">
 			<div class="tile">
 				<a class="stack tiles" href="http://www.facebook.com/pages/Little-Georges-Restaurant/131565550199983">
 					<span class="tile tile-middle icon-facebook"></span>
@@ -21,6 +22,15 @@ function page_top($title, $locations, $path_to_root = './') {
 						Join us on<br>
 						Facebook!
 					</span>
+				</a>
+				<a title="home" href="<?php echo $path_to_root; ?>" class="stack pad-top-md logo-link">
+					<img
+						src="<?php echo $path_to_root ?>/images/logo.png"
+						alt="Little George's Logo"
+						width="219"
+						height="114"
+						class="float-left"
+					>
 				</a>
 			</div>
 			<div class="tile">
@@ -41,17 +51,6 @@ function page_top($title, $locations, $path_to_root = './') {
 		</div>
 	</div>
 	<div class="cs-3 h-1 fx-popout">
-		<div class="container pad-left-md">
-			<a title="home" href="<?php echo $path_to_root; ?>">
-				<img
-					src="<?php echo $path_to_root ?>/images/logo.png"
-					alt="Little George's Logo"
-					width="219"
-					height="114"
-					class="shift-up-1-2"
-				>
-			</a>
-		</div>
 	</div>
 	<?php
 }
