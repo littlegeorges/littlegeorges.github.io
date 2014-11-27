@@ -409,8 +409,8 @@
                 "title": "Chef's Salad",
                 "description": "Consists of crisp Romaine, cucumbers, tomatoes, ham, cheddar cheese, and your choice of dressing",
                 "price": [
-                    "Regular 8.95",
-                    "Large 11.95"
+                    "Regular $8.95",
+                    "Large $11.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -421,8 +421,8 @@
                 "title": "Caesar Salad",
                 "description": "Prepared with our own creamy Caesar dressing, croutons, and parmesan cheese",
                 "price": [
-                    "Regular 8.95",
-                    "Large 11.95"
+                    "Regular $8.95",
+                    "Large $11.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -455,8 +455,8 @@
                 "title": "Greek Salad",
                 "description": "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.",
                 "price": [
-                    "Regular 8.95",
-                    "Large 12.95"
+                    "Regular $8.95",
+                    "Large $12.95"
                 ],
                 "locations": [
                     "north-nanaimo",
