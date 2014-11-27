@@ -1,6 +1,19 @@
 <?php page_top('Menu - Little George\'s', [$location], '../'); ?>
 <div class="md-table container">
-	<div class="stack md-table-cell md-w-1-4 pad-left-md pad-top-mdlg sidebar-background">
+	<div 
+		class="
+			stack
+			pad-top-mdlg
+			pad-h-md
+			pad-bottom-md
+
+			md-pad-right-nil
+			md-table-cell
+			md-w-1-4
+
+			sidebar-background
+		"
+	>
 		<ul id="lg-jump-menu" class="stack lg-jump-menu">
 			<?php foreach ($location->menu as $i => $menu_section): ?>
 				<li class="stack lg-jump-menu_item fs-mdsm lg-fs-md">
