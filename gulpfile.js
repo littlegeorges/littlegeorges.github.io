@@ -2,6 +2,7 @@ var gulp = require('gulp');
 var gulp_shell = require('gulp-shell');
 var gulp_stylus = require('gulp-stylus');
 var gulp_uncss = require('gulp-uncss');
+var gulp_autoprefixer = require('gulp-autoprefixer');
 var gulp_minify_css = require('gulp-minify-css');
 
 gulp.task('default', ['build-templates','build-images','build-js','stylus']);
@@ -25,6 +26,7 @@ gulp.task('stylus', function() {
 		.pipe(gulp_stylus({
 			cache: false
 		}))
+		.pipe(gulp_autoprefixer())
 		.pipe(gulp.dest('_site/css'));
 });
 
