@@ -78,7 +78,12 @@ function item_price($prices) {
 
 function section_header($menu_section) {
 	?>
-	<h2 id="<?php echo url_slug($menu_section->title); ?>" class="fs-xl text-center"><?php echo $menu_section->title; ?></h2>
+	<h2
+		id="<?php echo url_slug($menu_section->title); ?>"
+		class="fs-xl text-center section-title"
+	>
+		<?php echo $menu_section->title; ?>
+	</h2>
 	<?php if (!empty($menu_section->section_notes)): ?>
 		<div class="text-center pad-sm">
 			<?php echo Markdown::defaultTransform($menu_section->section_notes); ?>

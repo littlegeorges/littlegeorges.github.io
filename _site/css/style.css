@@ -4019,7 +4019,9 @@ a {
   height: 26px;
 }
 .shift-up-1-2 {
-  transform: translate(0, -50%);
+  -webkit-transform: translate(0, -50%);
+      -ms-transform: translate(0, -50%);
+          transform: translate(0, -50%);
 }
 .readable {
   max-width: 30em;
@@ -4038,7 +4040,7 @@ a {
   color: #e5e2dc;
 }
 .cs-4 {
-  color: #e2c98b; /* gold */
+  color: #e2c98b;
 }
 .border-1 {
   border-top: 1px solid #000;
@@ -4046,7 +4048,7 @@ a {
 .lg-jump-menu {
   box-shadow: 3px 3px 3px 2px rgba(0,0,0,0.4);
   border-style: solid;
-  border-color: #00a551; /* green */
+  border-color: #00a551;
   border-width: 0 2px;
   border-radius: 14px;
   overflow: hidden;
@@ -4062,6 +4064,13 @@ a {
   margin-top: -1px;
   box-shadow: 1px 1px 2px rgba(255,191,127,0.25) inset;
 }
+.lg-jump-menu_item:first-child {
+  border-radius: 12px 12px 0 0;
+  margin-top: 0;
+}
+.lg-jump-menu_item:last-child {
+  border-radius: 0 0 12px 12px;
+}
 .lg-jump-menu_link {
   display: block;
   color: #fff;
@@ -4069,18 +4078,11 @@ a {
 }
 .lg-jump-menu_link:hover {
   text-shadow: 1px 1px 3px #222;
-  background-color: #ae001c;
+  background-color: rgba(177,0,29,0.9);
 }
 .lg-jump-menu_link:active {
   box-shadow: 1px 1px 2px rgba(0,0,0,0.5) inset;
   padding: 3px 11px 1px 13px;
-}
-.lg-jump-menu_item:first-child {
-  border-radius: 12px 12px 0 0;
-  margin-top: 0;
-}
-.lg-jump-menu_item:last-child {
-  border-radius: 0 0 12px 12px;
 }
 .lg-jump-menu-fixed {
   position: fixed;
@@ -4105,8 +4107,36 @@ a {
   z-index: -1;
   top: 0;
   left: 0;
-  width: 80%; /* fallback */
+  width: 80%;
   width: calc(100% - 26px);
   height: 100%;
   background-color: #000;
+}
+.section-title:target {
+  -webkit-animation: highlight;
+          animation: highlight;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+  -webkit-animation-timing-function: ease-in-out;
+          animation-timing-function: ease-in-out;
+}
+.section-title {
+  color: #ae001c;
+  text-shadow: 1px 1px 0 #ffe9c6;
+}
+.section-title:before,
+.section-title:after {
+  content: '-';
+}
+@-webkit-keyframes highlight {
+  50% {
+    color: #ff032c;
+  }
+}
+@keyframes highlight {
+  50% {
+    color: #ff032c;
+  }
 }

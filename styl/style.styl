@@ -26,6 +26,18 @@ a
 .readable
 	max-width 30em
 
+// red
+color1 = rgba(174,0,28,.9)
+
+// off-white
+color2 = #e5e2dc
+
+// gold
+color3 = #E2C98B
+
+// green
+color4 = #00A551
+
 .cs-0
 	background-color #ffe9c6
 	background-image url(../images/background.png)
@@ -36,19 +48,19 @@ a
 	color white
 
 .cs-3
-	background-color rgba(174,0,28,.9)
-	color #e5e2dc
+	background-color color1
+	color color2
 
 .cs-4
-	color #E2C98B /* gold */
-
+	color color3
+	
 .border-1
 	border-top 1px solid black
 
 .lg-jump-menu
-	box-shadow 3px 3px 3px 2px rgba(0,0,0,0.4)
+	box-shadow 1px 2px 1px 1px rgba(0,0,0,0.3)
 	border-style solid
-	border-color #00A551 /* green */
+	border-color color4
 	border-width 0 2px
 	border-radius 14px
 	overflow hidden
@@ -59,7 +71,7 @@ a
 
 .lg-jump-menu_item
 	display block
-	background-color rgba(174,0,28,.9)
+	background-color color1
 	color white
 	text-shadow 2px 2px 2px #222
 
@@ -80,7 +92,7 @@ a
 
 	&:hover
 		text-shadow 1px 1px 3px #222
-		background-color #AE001C
+		background-color lighten(color1, 1%)
 
 	&:active
 		box-shadow 1px 1px 2px rgba(0,0,0,0.5) inset
@@ -115,3 +127,26 @@ a
 		width calc(100% - 26px)
 		height 100%
 		background-color black
+		box-shadow 1px 0 1px 1px rgba(0,0,0,0.3)
+		
+section-color = alpha(color1,1.0)
+
+@keyframes highlight
+	50%
+		color lighten(section-color,25%)
+
+.section-title:target
+	animation highlight
+	animation-duration 2s
+	animation-iteration-count 1
+	animation-timing-function ease-in-out
+
+
+.section-title
+	color section-color
+	text-shadow:
+		-1px -1px 0 darken(#ffe9c6,5%),
+		1px 1px 0 #ffe9c6;
+		
+	&:before,&:after
+		content '-'
