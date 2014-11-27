@@ -42,12 +42,15 @@ function page_top($title, $locations, $path_to_root = './') {
 	</div>
 	<div class="cs-3 h-1">
 		<div class="container pad-left-md">
-			<img
-				src="<?php echo $path_to_root ?>/images/logo.png"
-				width="219"
-				height="114"
-				class="shift-up-1-2"
-			>
+			<a title="home" href="<?php echo $path_to_root; ?>">
+				<img
+					src="<?php echo $path_to_root ?>/images/logo.png"
+					alt="Little George's Logo"
+					width="219"
+					height="114"
+					class="shift-up-1-2"
+				>
+			</a>
 		</div>
 	</div>
 	<?php
