@@ -4182,6 +4182,9 @@ a {
     overflow: hidden;
     position: relative;
   }
+  .slideshow > * {
+    border-radius: 0 0 10px 10px;
+  }
   .slideshow-overlay {
     background-image: url("../images/slideshow-overlay.png");
     background-size: 100% 100%;
