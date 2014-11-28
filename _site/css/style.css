@@ -77,7 +77,6 @@ img {
   vertical-align: top;
 }
 .tile {
-  text-align: left;
   vertical-align: top;
   display: inline-block;
 }
@@ -104,8 +103,11 @@ img {
   display: table-row;
 }
 .table-cell {
-  vertical-align: top;
   display: table-cell;
+  vertical-align: top;
+}
+.tiles > * {
+  text-align: left;
 }
 .tiles-left {
   text-align: left;
@@ -864,7 +866,6 @@ img {
     vertical-align: top;
   }
   .sm-tile {
-    text-align: left;
     vertical-align: top;
     display: inline-block;
   }
@@ -891,8 +892,11 @@ img {
     display: table-row;
   }
   .sm-table-cell {
-    vertical-align: top;
     display: table-cell;
+    vertical-align: top;
+  }
+  .sm-tiles > * {
+    text-align: left;
   }
   .sm-tiles-left {
     text-align: left;
@@ -1652,7 +1656,6 @@ img {
     vertical-align: top;
   }
   .md-tile {
-    text-align: left;
     vertical-align: top;
     display: inline-block;
   }
@@ -1679,8 +1682,11 @@ img {
     display: table-row;
   }
   .md-table-cell {
-    vertical-align: top;
     display: table-cell;
+    vertical-align: top;
+  }
+  .md-tiles > * {
+    text-align: left;
   }
   .md-tiles-left {
     text-align: left;
@@ -2440,7 +2446,6 @@ img {
     vertical-align: top;
   }
   .lg-tile {
-    text-align: left;
     vertical-align: top;
     display: inline-block;
   }
@@ -2467,8 +2472,11 @@ img {
     display: table-row;
   }
   .lg-table-cell {
-    vertical-align: top;
     display: table-cell;
+    vertical-align: top;
+  }
+  .lg-tiles > * {
+    text-align: left;
   }
   .lg-tiles-left {
     text-align: left;
@@ -3228,7 +3236,6 @@ img {
     vertical-align: top;
   }
   .xl-tile {
-    text-align: left;
     vertical-align: top;
     display: inline-block;
   }
@@ -3255,8 +3262,11 @@ img {
     display: table-row;
   }
   .xl-table-cell {
-    vertical-align: top;
     display: table-cell;
+    vertical-align: top;
+  }
+  .xl-tiles > * {
+    text-align: left;
   }
   .xl-tiles-left {
     text-align: left;
