@@ -4150,6 +4150,26 @@ a {
 .tel-link {
   color: #00a551;
 }
+.location-link {
+  background-color: #ae001c;
+  color: #ededed;
+  -webkit-transition: border-color 0.1s;
+          transition: border-color 0.1s;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #ae001c;
+  text-shadow: -1px -1px 0 #8b0016, 1px 1px 0 #b71e37;
+  padding: 26px;
+  box-shadow: 1px 1px 3px 1px rgba(0,0,0,0.3);
+}
+.location-link:hover {
+  border-color: #00a551 #007338 #007338 #008440;
+}
+.location-link:active {
+  box-shadow: 1px 1px 2px 2px #8b0016 inset;
+  padding: 27px 25px 25px 27px;
+}
 @-webkit-keyframes highlight {
   50% {
     color: #ff032c;
