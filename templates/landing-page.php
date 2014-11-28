@@ -7,6 +7,7 @@
 		<?php foreach ($slideshow_images as $slideshow_image): ?>
 			<div class="slideshow_slide" data-src="images/slideshow/<?php echo $slideshow_image; ?>"></div>
 		<?php endforeach ?>
+		<div class="slideshow-overlay"></div>
 	</div>
 	<p class="text-center fs-xl pad-top-lg">
 		Choose a Location:

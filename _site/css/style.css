@@ -4175,21 +4175,24 @@ a {
 }
 @media all and (min-width: 768px) {
   .slideshow {
-    display: block;
-    height: 400px;
+    display: table;
+    width: 100%;
+    max-width: 960px;
+    margin: auto;
     overflow: hidden;
     position: relative;
   }
-  .slideshow:after {
-    content: '';
+  .slideshow-overlay {
     background-image: url("../images/slideshow-overlay.png");
     background-size: 100% 100%;
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 100%;
-    height: 100%;
+    display: block;
+    position: relative;
+  }
+  .slideshow-overlay:after {
+    content: '';
+    display: block;
+    padding-top: 31.874999999999996%;
   }
   .slideshow_slide {
     display: block;
