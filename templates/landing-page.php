@@ -2,13 +2,13 @@
 	$slideshow_images = array_reverse(array_slice(scandir('images/slideshow'), 2));
 ?>
 <?php page_top('Little George\'s', $locations); ?>
-<div class="container pad-v-lg pad-h-md">
+<div class="container pad-bottom-lg pad-h-md">
 	<div class="slideshow">
 		<?php foreach ($slideshow_images as $slideshow_image): ?>
 			<div class="slideshow_slide" data-src="images/slideshow/<?php echo $slideshow_image; ?>"></div>
 		<?php endforeach ?>
 	</div>
-	<p class="text-center fs-xl">
+	<p class="text-center fs-xl pad-top-lg">
 		Choose a Location:
 	</p>
 	<div class="tiles tiles-center">

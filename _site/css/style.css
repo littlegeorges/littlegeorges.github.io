@@ -4180,6 +4180,17 @@ a {
     overflow: hidden;
     position: relative;
   }
+  .slideshow:after {
+    content: '';
+    background-image: url("../images/slideshow-overlay.png");
+    background-size: 100% 100%;
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
   .slideshow_slide {
     display: block;
     position: absolute;
@@ -4190,23 +4201,8 @@ a {
     background-size: cover;
     -webkit-transition: opacity 1s;
             transition: opacity 1s;
+    opacity: 1;
   }
-@-webkit-keyframes slide-transition {
-    0% {
-      opacity: 1;
-    }
-    100% {
-      opacity: 0;
-    }
-}
-@keyframes slide-transition {
-    0% {
-      opacity: 1;
-    }
-    100% {
-      opacity: 0;
-    }
-}
 }
 @-webkit-keyframes highlight {
   50% {
