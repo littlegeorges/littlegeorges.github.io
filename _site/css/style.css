@@ -4147,6 +4147,10 @@ a {
     z-index: 1;
   }
 }
+.tel-link {
+  color: #00a551;
+  text-decoration: underline;
+}
 @-webkit-keyframes highlight {
   50% {
     color: #ff032c;

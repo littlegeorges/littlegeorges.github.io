@@ -10,6 +10,7 @@ function page_top($title, $locations, $path_to_root = './') {
 	<meta charset="utf-8">
 	<title><?php echo $title; ?></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
@@ -44,7 +45,9 @@ function page_top($title, $locations, $path_to_root = './') {
 						<?php echo $location->address; ?>
 					</p>
 					<p class="text-right">
-						<?php echo $location->phone_number; ?>
+						<a class="tel-link" href="tel:<?php echo $location->phone_number; ?>">
+							<?php echo $location->phone_number; ?>
+						</a>
 					</p>
 				<?php endforeach ?>
 			</div>
