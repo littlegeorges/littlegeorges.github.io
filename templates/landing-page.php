@@ -9,12 +9,12 @@
 		<?php endforeach ?>
 		<div class="slideshow-overlay"></div>
 	</div>
-	<p class="text-center fs-xl pad-top-lg">
+	<p class="text-center fs-xl pad-v-lg">
 		Choose a Location:
 	</p>
-	<div class="tiles tiles-center">
+	<div class="tiles tiles-center pad-bottom-md">
 		<?php foreach ($locations as $location): ?>
-			<div class="tile pad-lg">
+			<div class="tile pad-bottom-md pad-h-sm sm-pad-h-md md-pad-h-lg">
 				<a href="<?php echo $location->name; ?>" class="stack location-link">
 					<h2><?php echo $location->title; ?></h2>
 					<p class="fs-sm"><?php echo $location->phone_number; ?></p>
