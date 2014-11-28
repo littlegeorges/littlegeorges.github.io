@@ -4170,6 +4170,44 @@ a {
   box-shadow: 1px 1px 2px 2px #8b0016 inset;
   padding: 27px 25px 25px 27px;
 }
+.slideshow {
+  display: none;
+}
+@media all and (min-width: 768px) {
+  .slideshow {
+    display: block;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+  }
+  .slideshow_slide {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    -webkit-transition: opacity 1s;
+            transition: opacity 1s;
+  }
+@-webkit-keyframes slide-transition {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+}
+@keyframes slide-transition {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+}
+}
 @-webkit-keyframes highlight {
   50% {
     color: #ff032c;

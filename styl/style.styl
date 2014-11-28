@@ -189,5 +189,24 @@ a
 	&:active
 		box-shadow 1px 1px 2px 2px shade(@background-color, 20%) inset
 		padding: (padding-sizes['md'] + 1px) (padding-sizes['md'] - 1px) (padding-sizes['md'] - 1px) (padding-sizes['md'] + 1px)
+
+.slideshow
+	display none
+
+@media all and (min-width: screen-sizes['sm']
+	.slideshow
+		display block
+		height 400px
+		overflow hidden
+		position relative
 		
-		
+	.slideshow_slide
+		display block
+		position absolute
+		top 0
+		left 0
+		width 100%
+		height 100%
+		background-size cover
+		transition opacity 1s
+		opacity 1

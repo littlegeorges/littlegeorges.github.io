@@ -1,5 +1,13 @@
+<?php
+	$slideshow_images = array_reverse(array_slice(scandir('images/slideshow'), 2));
+?>
 <?php page_top('Little George\'s', $locations); ?>
 <div class="container pad-v-lg pad-h-md">
+	<div class="slideshow">
+		<?php foreach ($slideshow_images as $slideshow_image): ?>
+			<div class="slideshow_slide" data-src="images/slideshow/<?php echo $slideshow_image; ?>"></div>
+		<?php endforeach ?>
+	</div>
 	<p class="text-center fs-xl">
 		Choose a Location:
 	</p>
@@ -22,4 +30,5 @@
 		<p>Offering dine in, take out or delivery, stop by Little George’s for great-tasting food today!</p>
 	</div>
 </div>
+<script type="text/javascript" src="js/slideshow.js"></script>
 <?php page_bottom(); ?>
