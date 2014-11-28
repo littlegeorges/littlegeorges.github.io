@@ -100,7 +100,7 @@ function standard_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div class="tile w-1-2 pad-md tiles tiles-justify">
+				<div class="sm-tile sm-w-1-2 pad-md tiles tiles-justify">
 					<div class="tile max-w-3-4 pad-right-sm">
 						<?php item_title($menu_item->title); ?>
 					</div>
@@ -124,7 +124,7 @@ function pizza_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div class="tile w-1-2 pad-md">
+				<div class="sm-tile sm-w-1-2 pad-md">
 					<?php item_title($menu_item->title); ?>
 					<div class="fs-mdsm">
 						<?php echo Markdown::defaultTransform($menu_item->description); ?>
@@ -152,7 +152,7 @@ function pizza_menu_section($menu_section) {
 
 function mini_menu_section($menu_section) {
 	?>
-	<div class="tile w-1-2 pad-md">
+	<div class="sm-tile sm-w-1-2 pad-md">
 		<?php section_header($menu_section); ?>
 		<?php foreach ($menu_section->menu_items as $menu_item): ?>
 			<div class="tiles tiles-justify pad-top-md">
@@ -172,35 +172,31 @@ function mini_menu_section($menu_section) {
 }
 
 function table_menu_section($menu_section) {
+	$price_names = ['Sm.','Md.','Lg.'];
 	?>
 	<div class="stack pad-md">
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
-			<div class="tile w-1-2">
+			<div class="hide sm-tile sm-w-1-2">
 				&nbsp;
 			</div>
-			<div class="tile w-1-6">
-				<strong>Sm.</strong>
-			</div>
-			<div class="tile w-1-6">
-				<strong>Md.</strong>
-			</div>
-			<div class="tile w-1-6">
-				<strong>Lg.</strong>
-			</div>
+			<?php foreach ($price_names as $price_name): ?>
+				<strong class="hide sm-tile sm-w-1-6">
+					<?php echo $price_name; ?>
+				</strong>
+			<?php endforeach ?>
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div class="tile w-1-2">
+				<div class="tile pad-top-sm w-fill sm-w-1-2 sm-pad-top-nil">
 					<?php echo $menu_item->title; ?>
 				</div>
-				<div class="tile w-1-6">
-					<?php echo $menu_item->price[0]; ?>
-				</div>
-				<div class="tile w-1-6">
-					<?php echo $menu_item->price[1]; ?>
-				</div>
-				<div class="tile w-1-6">
-					<?php echo $menu_item->price[2]; ?>
-				</div>
+				<?php foreach ($menu_item->price as $i=>$price): ?>
+					<div class="tile w-1-3 sm-w-1-6">
+						<strong class="stack sm-hide">
+							<?php echo $price_names[$i]; ?>
+						</strong>
+						<?php echo $price; ?>
+					</div>
+				<?php endforeach ?>
 			<?php endforeach ?>
 		</div>
 	</div>
