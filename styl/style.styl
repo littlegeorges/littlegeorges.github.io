@@ -2,7 +2,7 @@ color-black = #111
 color-white = #EDEDED
 
 // red
-color1 = rgba(174,0,28,.9)
+color1 = rgba(174,0,28,1)
 
 // off-white
 color2 = #e5e2dc
@@ -74,7 +74,7 @@ a
 
 .lg-jump-menu_item
 	display block
-	background-color color1
+	background-color shade(color1, 10%)
 	color color-white
 	text-shadow:
 		-1px -1px 0 shade(color1, 20%),
@@ -137,11 +137,9 @@ a
 			width calc(100% - 26px)
 	
 
-section-color = alpha(color1,1.0)
-
 @keyframes highlight
 	50%
-		color lighten(section-color,25%)
+		color lighten(color1,25%)
 
 .section-title:target
 	animation highlight
@@ -151,7 +149,7 @@ section-color = alpha(color1,1.0)
 
 
 .section-title
-	color section-color
+	color color1
 	text-shadow:
 		-1px -1px 0 shade(#ffe9c6,10%),
 		1px 1px 0 shade(#ffe9c6,4%);

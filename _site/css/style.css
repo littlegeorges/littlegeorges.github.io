@@ -4036,7 +4036,7 @@ a {
   color: #ededed;
 }
 .cs-3 {
-  background-color: rgba(174,0,28,0.9);
+  background-color: #ae001c;
   color: #e5e2dc;
 }
 .cs-4 {
@@ -4058,9 +4058,9 @@ a {
 }
 .lg-jump-menu_item {
   display: block;
-  background-color: rgba(174,0,28,0.9);
+  background-color: #9c0019;
   color: #ededed;
-  text-shadow: -1px -1px 0 #850015, 1px 1px 0 #b9243c;
+  text-shadow: -1px -1px 0 #8b0016, 1px 1px 0 #b71e37;
   margin-top: -1px;
   box-shadow: 1px 1px 2px rgba(255,191,127,0.25) inset;
 }
@@ -4077,7 +4077,7 @@ a {
   padding: 2px 12px;
 }
 .lg-jump-menu_link:hover {
-  background-color: rgba(177,0,29,0.9);
+  background-color: #b1001d;
 }
 .lg-jump-menu_link:active {
   box-shadow: 1px 1px 2px rgba(0,0,0,0.5) inset;
