@@ -14,8 +14,8 @@ function page_top($title, $locations, $path_to_root = './') {
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
-	<div class="stack cs-1">
-		<div class="container tiles tiles-center sm-tiles-justify pad-v-md">
+	<div class="stack cs-1 pad-md">
+		<div class="container tiles tiles-center sm-tiles-justify">
 			<div class="tile">
 				<a class="stack tiles" href="http://www.facebook.com/pages/Little-Georges-Restaurant/131565550199983">
 					<span class="tile tile-middle icon-facebook"></span>
