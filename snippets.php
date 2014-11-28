@@ -35,9 +35,9 @@ function page_top($title, $locations, $path_to_root = './') {
 				</a>
 			</div>
 			<div class="tile">
-				<p>
+				<p class="text-right pad-bottom-sm">
 					<strong>CITY WIDE DELIVERY</strong><br>
-					<small>Delivery Charge Applies</small>
+					<small class="fs-sm">Delivery Charge Applies</small>
 				</p>
 
 				<?php foreach ($locations as $location): ?>
