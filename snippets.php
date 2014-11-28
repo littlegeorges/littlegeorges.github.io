@@ -9,6 +9,7 @@ function page_top($title, $locations, $path_to_root = './') {
 <head>
 	<meta charset="utf-8">
 	<title><?php echo $title; ?></title>
+	<link rel="shortcut icon" href="<?php echo $path_to_root; ?>images/favicon.ico" type="image/x-icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
