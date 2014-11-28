@@ -32,7 +32,7 @@
 				slide_index = num_slides-1;
 			}
 			current_slide = el_slides[slide_index];
-		}, 4000);
+		}, 5000);
 	};
 
 	/**
