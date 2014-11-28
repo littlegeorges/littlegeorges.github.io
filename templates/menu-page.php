@@ -1,4 +1,4 @@
-<?php page_top('Menu - Little George\'s', [$location], '../'); ?>
+<?php page_top('Menu for '.$location->title.' - Little George\'s', [$location], '../'); ?>
 <div class="md-table container">
 	<div 
 		class="
