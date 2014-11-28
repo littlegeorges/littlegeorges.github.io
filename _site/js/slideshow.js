@@ -1,15 +1,6 @@
 (function(){
 	var el_slides = document.getElementsByClassName('slideshow_slide');
 
-	// Keep track of how many images are loaded so we know when to start the slideshow.
-	var num_images_loaded = 0;
-	var imageLoaded = function() {
-		num_images_loaded++;
-		if (num_images_loaded === num_slides) {
-			runSlideshow();
-		}
-	};
-
 	// Go through the list of slides and assign their background image based on their data-src attribute.
 	// The images won't load while `.slideshow` is display: none;
 	// See http://timkadlec.com/2012/04/media-query-asset-downloading-results/
@@ -18,10 +9,6 @@
 		var el_slide = el_slides[i];
 		var image_src = el_slide.getAttribute('data-src');
 		el_slide.style.backgroundImage = 'url('+image_src+')';
-		el_slide.ready_for_transition = true;
-		var image_checker = new Image();
-		image_checker.onload = imageLoaded;
-		image_checker.src = image_src;
 	}
 
 	/**
@@ -58,4 +45,6 @@
 			el_slide.style.opacity = 1;
 		}
 	};
+
+	runSlideshow();
 })();
