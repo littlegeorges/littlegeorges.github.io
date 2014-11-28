@@ -45,7 +45,7 @@ function page_top($title, $locations, $path_to_root = './') {
 						<?php echo $location->address; ?>
 					</p>
 					<p class="text-right">
-						<a class="tel-link" href="tel:<?php echo $location->phone_number; ?>">
+						<a class="fs-lg tel-link" href="tel:<?php echo $location->phone_number; ?>">
 							<?php echo $location->phone_number; ?>
 						</a>
 					</p>
