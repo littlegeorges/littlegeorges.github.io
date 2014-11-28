@@ -4150,7 +4150,7 @@ a {
 .fx-popout {
   box-shadow: 0 0 1px 2px rgba(0,0,0,0.3) inset;
 }
-@media all and (min-width: 768px) {
+@media all and (min-width: 992px) {
   .logo-link {
     margin-bottom: -78px;
     position: relative;

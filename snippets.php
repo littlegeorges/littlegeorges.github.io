@@ -35,22 +35,32 @@ function page_top($title, $locations, $path_to_root = './') {
 					>
 				</a>
 			</div>
-			<div class="tile">
-				<p class="text-right pad-bottom-sm">
-					<strong>CITY WIDE DELIVERY</strong><br>
-					<small class="fs-sm">Delivery Charge Applies</small>
-				</p>
-
-				<?php foreach ($locations as $location): ?>
-					<p class="text-right">
-						<?php echo $location->address; ?>
+			<div class="tile tiles">
+				<div class="tile">
+					<p class="text-right pad-bottom-sm">
+						<strong>CITY WIDE DELIVERY</strong><br>
+						<small class="fs-sm">Delivery Charge Applies</small>
 					</p>
-					<p class="text-right">
-						<a class="fs-lg tel-link" href="tel:<?php echo $location->phone_number; ?>">
-							<?php echo $location->phone_number; ?>
-						</a>
-					</p>
-				<?php endforeach ?>
+					<?php foreach ($locations as $location): ?>
+						<p class="text-right">
+							<?php echo $location->address; ?>
+						</p>
+						<p class="text-right">
+							<a class="fs-lg tel-link" href="tel:<?php echo $location->phone_number; ?>">
+								<?php echo $location->phone_number; ?>
+							</a>
+						</p>
+					<?php endforeach ?>
+				</div>
+				<div class="tile pad-left-md pad-top-sm sm-pad-top-nil">
+					<h2 class="hide">Hours</h2>
+					<dl>
+						<dt>Sunday to Thursday</dt>
+							<dd>4pm - 11pm</dd>
+						<dt>Friday and Saturday</dt>
+							<dd>4pm - 1am</dd>
+					</dl>
+				</div>
 			</div>
 		</div>
 	</div>
