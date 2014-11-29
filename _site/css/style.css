@@ -1,4 +1,7 @@
 @import url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
+img {
+  border: none;
+}
 html {
   font-size: 18px;
   line-height: 26px;
@@ -120,6 +123,7 @@ img {
 }
 .tiles-justify {
   text-align: justify;
+  text-justify: distribute-all-lines;
   line-height: normal;
 }
 .tiles-justify:after {
@@ -909,6 +913,7 @@ img {
   }
   .sm-tiles-justify {
     text-align: justify;
+    text-justify: distribute-all-lines;
     line-height: normal;
   }
   .sm-tiles-justify:after {
@@ -1699,6 +1704,7 @@ img {
   }
   .md-tiles-justify {
     text-align: justify;
+    text-justify: distribute-all-lines;
     line-height: normal;
   }
   .md-tiles-justify:after {
@@ -2489,6 +2495,7 @@ img {
   }
   .lg-tiles-justify {
     text-align: justify;
+    text-justify: distribute-all-lines;
     line-height: normal;
   }
   .lg-tiles-justify:after {
@@ -3279,6 +3286,7 @@ img {
   }
   .xl-tiles-justify {
     text-align: justify;
+    text-justify: distribute-all-lines;
     line-height: normal;
   }
   .xl-tiles-justify:after {
