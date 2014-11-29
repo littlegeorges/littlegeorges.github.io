@@ -15,7 +15,9 @@ function page_top($title, $locations, $path_to_root = './') {
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
-	<div class="stack cs-1 pad-md">
+	<div id="little-georges-organization" itemprop="branchOf" itemscope itemtype="http://schema.org/Organization" class="stack cs-1 pad-md">
+		<meta itemprop="name" content="Little George's Restaurant">
+		<meta itemprop="url" content="http://littlegeorges.ca">
 		<div class="container tiles tiles-center sm-tiles-justify">
 			<div class="tile">
 				<a class="stack tiles" href="http://www.facebook.com/pages/Little-Georges-Restaurant/131565550199983">
@@ -27,6 +29,7 @@ function page_top($title, $locations, $path_to_root = './') {
 				</a>
 				<a title="home" href="<?php echo $path_to_root; ?>" class="stack pad-top-md logo-link">
 					<img
+						itemprop="logo"
 						src="<?php echo $path_to_root ?>/images/logo.png"
 						alt="Little George's Logo"
 						width="219"
@@ -42,14 +45,22 @@ function page_top($title, $locations, $path_to_root = './') {
 						<small class="fs-sm">Delivery Charge Applies</small>
 					</p>
 					<?php foreach ($locations as $location): ?>
-						<p class="text-right">
-							<?php echo $location->address; ?>
-						</p>
-						<p class="text-right">
-							<a class="fs-lg tel-link" href="tel:<?php echo $location->phone_number; ?>">
-								<?php echo $location->phone_number; ?>
-							</a>
-						</p>
+						<div itemscope itemtype="http://schema.org/Restaurant" itemref="little-georges-organization">
+							<meta itemprop="name" content="Little George's - <?php echo $location->title; ?>">
+							<meta itemprop="url" content="http://littlegeorges.ca/<?php echo $location->name; ?>">
+							<meta itemprop="menu" content="http://littlegeorges.ca/<?php echo $location->name; ?>">
+							<meta itemprop="servesCuisine" content="greek, italian, pizza, pasta, salad, steak">
+							<meta itemprop="openingHours" content="Mo-Th 16:00-23:00">
+							<meta itemprop="openingHours" content="Fr,Sa 16:00-1:00">
+							<p class="text-right" itemprop="address">
+								<?php echo $location->address; ?>
+							</p>
+							<p class="text-right">
+								<a itemprop="telephone" class="fs-lg tel-link" href="tel:<?php echo $location->phone_number; ?>">
+									<?php echo $location->phone_number; ?>
+								</a>
+							</p>
+						</div>
 					<?php endforeach ?>
 				</div>
 				<div class="tile pad-left-md pad-top-sm sm-pad-top-nil">
