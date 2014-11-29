@@ -33,6 +33,10 @@ function filter_by_location($items, $location) {
 
 $locations = json_decode(file_get_contents('data/locations.json'));
 $menu = json_decode(file_get_contents('data/menu.json'));
+$globals = json_decode(file_get_contents('data/globals.json'));
+foreach ($globals as $key => $value) {
+	define($key, $value);
+}
 
 generate_landing_page($locations);
 

@@ -17,7 +17,7 @@ function page_top($title, $locations, $path_to_root = './') {
 <body>
 	<div id="little-georges-organization" itemprop="branchOf" itemscope itemtype="http://schema.org/Organization" class="stack cs-1 pad-md">
 		<meta itemprop="name" content="Little George's Restaurant">
-		<meta itemprop="url" content="http://littlegeorges.ca">
+		<meta itemprop="url" content="<?php echo SITE_URL; ?>">
 		<div class="container tiles tiles-center sm-tiles-justify">
 			<div class="tile">
 				<a class="stack tiles" href="http://www.facebook.com/pages/Little-Georges-Restaurant/131565550199983">
@@ -47,8 +47,8 @@ function page_top($title, $locations, $path_to_root = './') {
 					<?php foreach ($locations as $location): ?>
 						<div itemscope itemtype="http://schema.org/Restaurant" itemref="little-georges-organization">
 							<meta itemprop="name" content="Little George's - <?php echo $location->title; ?>">
-							<meta itemprop="url" content="http://littlegeorges.ca/<?php echo $location->name; ?>">
-							<meta itemprop="menu" content="http://littlegeorges.ca/<?php echo $location->name; ?>">
+							<meta itemprop="url" content="<?php echo SITE_URL; ?>/<?php echo $location->name; ?>">
+							<meta itemprop="menu" content="<?php echo SITE_URL; ?>/<?php echo $location->name; ?>">
 							<meta itemprop="servesCuisine" content="greek, italian, pizza, pasta, salad, steak">
 							<meta itemprop="openingHours" content="Mo-Th 16:00-23:00">
 							<meta itemprop="openingHours" content="Fr,Sa 16:00-1:00">
