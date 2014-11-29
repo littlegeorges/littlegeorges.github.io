@@ -2,7 +2,7 @@
 
 use \Michelf\Markdown;
 
-function page_top($title, $locations, $path_to_root = './') {
+function page_top($title, $locations, $path_to_root = './', $path = '') {
 	?>
 <!DOCTYPE html>
 <html class="cs-0">
@@ -12,6 +12,7 @@ function page_top($title, $locations, $path_to_root = './') {
 	<link rel="shortcut icon" href="<?php echo $path_to_root; ?>images/favicon.ico" type="image/x-icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="format-detection" content="telephone=no">
+	<link rel="canonical" href="<?php echo SITE_URL; ?>/<?php echo $path; ?>" />
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
