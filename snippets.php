@@ -89,7 +89,7 @@ function page_bottom() {
 
 function item_title($title) {
 	?>
-	<h3 class="tile fs-mdlg">
+	<h3 itemprop="name" class="tile fs-mdlg">
 		<?php echo $title; ?>
 	</h3>
 	<?php
@@ -125,7 +125,7 @@ function standard_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div class="sm-tile sm-w-1-2 pad-md tiles tiles-justify">
+				<div itemscope itemtype="http://schema.org/Product" class="sm-tile sm-w-1-2 pad-md tiles tiles-justify">
 					<div class="tile max-w-3-4 pad-right-sm">
 						<?php item_title($menu_item->title); ?>
 					</div>
@@ -133,7 +133,7 @@ function standard_menu_section($menu_section) {
 						<?php item_price($menu_item->price); ?>
 					</div>
 					<!-- the above two tiles won't justify unless this is also a `.tile` -->
-					<div class="tile w-fill pad-top-md">
+					<div itemprop="description" class="tile w-fill pad-top-md">
 						<?php echo Markdown::defaultTransform($menu_item->description); ?>
 					</div>
 				</div>
@@ -149,9 +149,9 @@ function pizza_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div class="sm-tile sm-w-1-2 pad-md">
+				<div itemscope itemtype="http://schema.org/Product" class="sm-tile sm-w-1-2 pad-md">
 					<?php item_title($menu_item->title); ?>
-					<div class="fs-mdsm">
+					<div itemprop="description" class="fs-mdsm">
 						<?php echo Markdown::defaultTransform($menu_item->description); ?>
 					</div>
 					<div class="tiles tiles-justify pad-v-sm pad-h-sm lg-pad-h-lg">
@@ -180,14 +180,14 @@ function mini_menu_section($menu_section) {
 	<div class="sm-tile sm-w-1-2 pad-md">
 		<?php section_header($menu_section); ?>
 		<?php foreach ($menu_section->menu_items as $menu_item): ?>
-			<div class="tiles tiles-justify pad-top-md">
+			<div itemscope itemtype="http://schema.org/Product" class="tiles tiles-justify pad-top-md">
 				<div class="tile max-w-3-4">
 					<?php item_title($menu_item->title); ?>
 				</div>
 				<div class="tile">
 					<?php item_price($menu_item->price); ?>
 				</div>
-				<div class="tile w-fill pad-top-md">
+				<div itemprop="description" class="tile w-fill pad-top-md">
 					<?php echo Markdown::defaultTransform($menu_item->description); ?>
 				</div>
 			</div>
