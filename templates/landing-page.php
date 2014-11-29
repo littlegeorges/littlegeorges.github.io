@@ -1,7 +1,7 @@
 <?php
 	$slideshow_images = array_reverse(array_slice(scandir('images/slideshow'), 2));
 ?>
-<?php page_top('Little George\'s', $locations); ?>
+<?php page_top('Little George\'s - City-Wide Delivery - More Than Just Pizza', $locations); ?>
 <div class="container pad-bottom-lg pad-h-md">
 	<div class="slideshow">
 		<?php foreach ($slideshow_images as $slideshow_image): ?>
