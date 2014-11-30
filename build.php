@@ -39,6 +39,7 @@ foreach ($globals as $key => $value) {
 }
 
 generate_landing_page($locations);
+generate_404_page($locations);
 
 foreach ($locations as &$location) {
 	$location->menu = filter_by_location($menu, $location->name);

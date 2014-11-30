@@ -13,6 +13,10 @@ function generate_landing_page($locations) {
 	generate_from_template(STATIC_SITE_FOLDER.'/index.html', 'templates/landing-page.php', compact('locations'));
 }
 
+function generate_404_page($locations) {
+	generate_from_template(STATIC_SITE_FOLDER.'/404.html', 'templates/404.php', compact('locations'));
+}
+
 function generate_menu_page($location) {
 	$dir_name = STATIC_SITE_FOLDER.'/'.url_slug($location->name);
 	mkdir($dir_name);
