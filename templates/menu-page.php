@@ -62,7 +62,7 @@
 			id="scroll-to-top"
 			class="scroll-to-top pad-sm fs-sm"
 			href="#">
-				&#8682;
+				<img src="../images/up-arrow.svg" alt="back to top" title="back to top">
 		</a>
 		<!--
 			When scroll past #activator-scroll-to-top we add/remove a class from #scroll-to-top.
