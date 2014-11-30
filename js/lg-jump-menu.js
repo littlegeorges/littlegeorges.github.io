@@ -10,7 +10,7 @@
 		var jump_menu_rect = el_lg_jump_menu.getBoundingClientRect();
 		var body_rect = document.body.getBoundingClientRect();
 		top = jump_menu_rect.top - body_rect.top;
-		window.onscroll();
+		onscroll();
 	};
 
 	// Assuming that any custom fonts will have loaded
@@ -21,9 +21,9 @@
 	// "stick" a little earlier than intended.
 	setTimeout(determineTopAndWidth, 500);
 
-	window.onresize = determineTopAndWidth;
+	window.addEventListener('resize', determineTopAndWidth);
 
-	window.onscroll = function(e) {
+	var onscroll = function(e) {
 		var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
 		if (scrollTop >= top) {
 			el_lg_jump_menu.classList.add('lg-jump-menu-fixed');
@@ -32,4 +32,5 @@
 			el_lg_jump_menu.classList.remove('lg-jump-menu-fixed');		
 		}
 	};
+	window.addEventListener('scroll', onscroll);
 })();
