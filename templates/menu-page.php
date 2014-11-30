@@ -92,6 +92,5 @@
 		?>
 	</div>
 </div>
-<script type="text/javascript" src="../js/lg-jump-menu.js"></script>
-<script type="text/javascript" src="../js/scroll-to-top.js"></script>
+<script type="text/javascript" src="../js/menu-page.js"></script>
 <?php page_bottom(); ?>

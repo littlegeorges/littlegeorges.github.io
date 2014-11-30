@@ -4,6 +4,7 @@ var gulp_stylus = require('gulp-stylus');
 var gulp_uncss = require('gulp-uncss');
 var gulp_autoprefixer = require('gulp-autoprefixer');
 var gulp_minify_css = require('gulp-minify-css');
+var gulp_concat = require('gulp-concat');
 var pngcrush = require('imagemin-pngcrush');
 
 gulp.task('default', ['build-templates','build-images','build-js','stylus']);
@@ -19,7 +20,10 @@ gulp.task('build-images', function() {
 });
 
 gulp.task('build-js', function() {
-	gulp.src('js/**/*', {base: 'js'})
+	gulp.src(['js/slideshow.js'], {base: 'js'})
+		.pipe(gulp.dest('_site/js'));
+	gulp.src(['js/lg-jump-menu.js','js/scroll-to-top.js'], {base: 'js'})
+		.pipe(gulp_concat('menu-page.js'))
 		.pipe(gulp.dest('_site/js'));
 });
 
