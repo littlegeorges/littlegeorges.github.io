@@ -3,7 +3,8 @@
 		"name": "south-nanaimo",
 		"title": "South Nanaimo",
 		"phone_number": "(250) 754-3271",
-		"address": "398 Bruce Ave. Nanaimo, BC"
+		"address": "398 Bruce Ave. Nanaimo, BC",
+		"download_menu_file": "../images/south-nanaimo-menu.pdf"
 	},
 	{
 		"name": "north-nanaimo",

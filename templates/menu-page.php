@@ -57,6 +57,14 @@
 		</ul>
 	</div>
 	<div class="stack md-pad-left-md md-table-cell md-w-3-4 tiles tiles-center">
+		<?php if (!empty($location->download_menu_file)): ?>
+			<div class="tiles tiles-right">
+				<a class="tile main-content-link" href="<?php echo $location->download_menu_file; ?>">
+					Click Here to Download Menu
+				</a>
+			</div>
+		<?php endif ?>
+
 		<!-- A fixed position link to return us to the top of the page when we are scrolled down -->
 		<a
 			id="scroll-to-top"
