@@ -235,3 +235,27 @@ a
 		background-size cover
 		transition opacity 1s
 		opacity 1
+		
+.scroll-to-top
+	display block
+	position fixed
+	top 0
+	right 0
+	opacity 0
+	// Move it off the screen
+	transform translate(100%,0)
+	/ body
+		overflow-x hidden
+	transition all 1s
+	
+	border-style solid
+	border-color color4
+	border-width 0 0 2px 2px
+	border-radius 0 0 0 5px
+	
+	background-color color1
+	color color-white
+	
+.scroll-to-top-shown
+	opacity 1
+	transform translate(0,0)

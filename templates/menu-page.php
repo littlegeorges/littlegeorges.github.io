@@ -57,6 +57,18 @@
 		</ul>
 	</div>
 	<div class="stack md-pad-left-md md-table-cell md-w-3-4 tiles tiles-center">
+		<!-- A fixed position link to return us to the top of the page when we are scrolled down -->
+		<a
+			id="scroll-to-top"
+			class="scroll-to-top pad-sm fs-sm"
+			href="#">
+				&#8682;
+		</a>
+		<!--
+			When scroll past #activator-scroll-to-top we add/remove a class from #scroll-to-top.
+			It is essentially a marker for when we want to show/hide #scroll-to-top
+		-->
+		<span id="activator-scroll-to-top"></span>
 		<?php
 		foreach ($location->menu as $menu_section) {
 			switch ($menu_section->display_format) {
@@ -81,4 +93,5 @@
 	</div>
 </div>
 <script type="text/javascript" src="../js/lg-jump-menu.js"></script>
+<script type="text/javascript" src="../js/scroll-to-top.js"></script>
 <?php page_bottom(); ?>
