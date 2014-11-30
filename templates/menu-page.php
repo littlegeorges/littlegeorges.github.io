@@ -1,6 +1,6 @@
 <?php page_top('Little George\'s Menu for '.$location->title, [$location], '../', $location->name.'/'); ?>
 <div class="md-table container">
-	<div 
+	<div
 		class="
 			stack
 			pad-top-mdlg

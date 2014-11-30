@@ -121,20 +121,25 @@ a
 .sidebar-background
 	position relative
 
+	overflow hidden // necessary for IE Workaround with pad/marg trick below
+
 	&:before
 		content ''
-		display block
+		display inline-block
 		position absolute
 		z-index -1
 		top 0
 		left 0
-		width 100%
-		height 100%
+		right 0
+		bottom 0
 		background-color color-black
 		box-shadow 1px 0 2px 1px rgba(0,0,0,0.3)
 		@media all and (min-width: screen-sizes['md'])
-			width 90% /* fallback */
-			width calc(100% - 26px)
+			right 26px
+			
+			// Workaround for IE to fill height of a table cell
+			padding-bottom 50000px
+			margin-bottom -50000px
 	
 
 @keyframes highlight
