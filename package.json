@@ -1,4 +1,8 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/littlegeorges/littlegeorges.github.io.git"
+  },
   "name": "little-georges",
   "version": "1.0.0",
   "description": "Static generator for Little George's web site",
