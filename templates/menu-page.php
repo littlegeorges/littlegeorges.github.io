@@ -58,7 +58,7 @@
 	</div>
 	<div class="stack md-pad-left-md md-table-cell md-w-3-4 tiles tiles-center">
 		<?php if (!empty($location->download_menu_file)): ?>
-			<div class="tiles tiles-right">
+			<div class="tiles tiles-right pad-right-sm sm-pad-right-nil">
 				<a class="tile main-content-link" href="<?php echo $location->download_menu_file; ?>">
 					Click Here to Download Menu
 				</a>
