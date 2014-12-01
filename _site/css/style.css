@@ -4060,9 +4060,6 @@ a {
 .cs-4 {
   color: #e8d4a2;
 }
-.border-1 {
-  border-top: 1px solid #111;
-}
 .lg-jump-menu {
   box-shadow: 1px 2px 3px 1px rgba(0,0,0,0.3);
   border-style: solid;
@@ -4139,6 +4136,14 @@ a {
     margin-bottom: -50000px;
   }
 }
+.section-title {
+  color: #ae001c;
+  text-shadow: -1px -1px 0 #e5d1b2, 1px 1px 0 #f4dfbe;
+}
+.section-title:before,
+.section-title:after {
+  content: '-';
+}
 .section-title:target {
   -webkit-animation: highlight;
           animation: highlight;
@@ -4149,13 +4154,15 @@ a {
   -webkit-animation-timing-function: ease-in-out;
           animation-timing-function: ease-in-out;
 }
-.section-title {
-  color: #ae001c;
-  text-shadow: -1px -1px 0 #e5d1b2, 1px 1px 0 #f4dfbe;
+@-webkit-keyframes highlight {
+  50% {
+    color: #ff032c;
+  }
 }
-.section-title:before,
-.section-title:after {
-  content: '-';
+@keyframes highlight {
+  50% {
+    color: #ff032c;
+  }
 }
 .fx-popout {
   box-shadow: 0 0 1px 2px rgba(0,0,0,0.3) inset;
@@ -4267,14 +4274,4 @@ body {
   -webkit-transform: translate(0, 0);
       -ms-transform: translate(0, 0);
           transform: translate(0, 0);
-}
-@-webkit-keyframes highlight {
-  50% {
-    color: #ff032c;
-  }
-}
-@keyframes highlight {
-  50% {
-    color: #ff032c;
-  }
 }

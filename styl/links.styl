@@ -1,0 +1,37 @@
+.main-content-link
+	color darken(color4, 20%)
+	position relative
+	text-decoration underline
+	&:hover
+		color darken(color4, 50%)
+	&:active
+		top 1px
+
+.logo-link
+	@media all and (min-width: screen-sizes['md'])
+		margin-bottom: line-height * -3
+		position relative
+		z-index 1
+		
+.tel-link
+	color saturate(color4,5%)
+	
+.location-link
+	background-color color1
+	color color-white
+	transition border-color 0.1s
+	border-radius 5px
+	border-style solid
+	border-width 4px
+	border-color color1
+	text-shadow:
+		-1px -1px 0 shade(color1, 20%),
+		1px 1px 0 tint(color1, 12%);
+	padding: padding-sizes['md']
+	box-shadow 1px 1px 3px 1px rgba(0,0,0,0.3)
+
+	&:hover
+		border-color color4 shade(color4, 30%) shade(color4, 30%) shade(color4, 20%)
+	&:active
+		box-shadow 1px 1px 2px 2px shade(@background-color, 20%) inset
+		padding: (padding-sizes['md'] + 1px) (padding-sizes['md'] - 1px) (padding-sizes['md'] - 1px) (padding-sizes['md'] + 1px)

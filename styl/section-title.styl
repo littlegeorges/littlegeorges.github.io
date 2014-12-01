@@ -1,0 +1,19 @@
+.section-title
+	color color1
+	text-shadow:
+		-1px -1px 0 shade(#ffe9c6,10%),
+		1px 1px 0 shade(#ffe9c6,4%);
+		
+	&:before,&:after
+		content '-'
+
+@keyframes highlight
+	50%
+		color lighten(color1,25%)
+
+.section-title:target
+	animation highlight
+	animation-duration 2s
+	animation-iteration-count 1
+	animation-timing-function ease-in-out
+
