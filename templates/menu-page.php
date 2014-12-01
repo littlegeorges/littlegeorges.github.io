@@ -7,6 +7,9 @@
 			pad-h-md
 			pad-bottom-md
 
+			sm-pad-h-sm
+
+			md-h-md
 			md-table-cell
 			md-w-1-4
 
