@@ -4131,7 +4131,7 @@ a {
 }
 @media all and (min-width: 992px) {
   .sidebar-background:before {
-    right: 26px;
+    right: 52px;
     padding-bottom: 50000px;
     margin-bottom: -50000px;
   }

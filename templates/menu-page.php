@@ -7,7 +7,6 @@
 			pad-h-md
 			pad-bottom-md
 
-			md-pad-right-nil
 			md-table-cell
 			md-w-1-4
 
@@ -56,7 +55,7 @@
 			</li>
 		</ul>
 	</div>
-	<div class="stack md-pad-left-md md-table-cell md-w-3-4 tiles tiles-center">
+	<div class="stack md-table-cell md-w-3-4 tiles tiles-center">
 		<?php if (!empty($location->download_menu_file)): ?>
 			<div class="tiles tiles-right">
 				<a class="tile main-content-link" href="<?php echo $location->download_menu_file; ?>">
