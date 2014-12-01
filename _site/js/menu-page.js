@@ -3,7 +3,7 @@
 	var top;
 
 	var determineTopAndWidth = function() {
-		el_lg_jump_menu.classList.remove('lg-jump-menu-fixed');
+		el_lg_jump_menu.classList.remove('js-lg-jump-menu-fixed');
 		el_lg_jump_menu.style.width = null;
 		var original_width = window.getComputedStyle(el_lg_jump_menu).width;
 		el_lg_jump_menu.style.width = original_width;
@@ -26,10 +26,10 @@
 	var onscroll = function(e) {
 		var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
 		if (scrollTop >= top) {
-			el_lg_jump_menu.classList.add('lg-jump-menu-fixed');
+			el_lg_jump_menu.classList.add('js-lg-jump-menu-fixed');
 		} else
 		if (scrollTop < top) {
-			el_lg_jump_menu.classList.remove('lg-jump-menu-fixed');		
+			el_lg_jump_menu.classList.remove('js-lg-jump-menu-fixed');		
 		}
 	};
 	window.addEventListener('scroll', onscroll);
@@ -41,12 +41,12 @@
 	var is_showing = false;
 
 	var showScrollElement = function() {
-		el_scroll_to_top.classList.add('scroll-to-top-shown');
+		el_scroll_to_top.classList.add('js-scroll-to-top-shown');
 		is_showing = true;
 	};
 
 	var hideScrollElement = function() {
-		el_scroll_to_top.classList.remove('scroll-to-top-shown');
+		el_scroll_to_top.classList.remove('js-scroll-to-top-shown');
 		is_showing = false;
 	};
 

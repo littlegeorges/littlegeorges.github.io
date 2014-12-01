@@ -5,12 +5,12 @@
 	var is_showing = false;
 
 	var showScrollElement = function() {
-		el_scroll_to_top.classList.add('scroll-to-top-shown');
+		el_scroll_to_top.classList.add('js-scroll-to-top-shown');
 		is_showing = true;
 	};
 
 	var hideScrollElement = function() {
-		el_scroll_to_top.classList.remove('scroll-to-top-shown');
+		el_scroll_to_top.classList.remove('js-scroll-to-top-shown');
 		is_showing = false;
 	};
 
