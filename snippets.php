@@ -51,7 +51,7 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 							<meta itemprop="url" content="<?php echo SITE_URL; ?>/<?php echo $location->name; ?>">
 							<meta itemprop="menu" content="<?php echo SITE_URL; ?>/<?php echo $location->name; ?>">
 							<meta itemprop="servesCuisine" content="greek, italian, pizza, pasta, salad, steak">
-							<meta itemprop="openingHours" content="Mo-Th 16:00-23:00">
+							<meta itemprop="openingHours" content="Mo-Th 16:00-0:00">
 							<meta itemprop="openingHours" content="Fr,Sa 16:00-1:00">
 							<p class="text-right" itemprop="address">
 								<?php echo $location->address; ?>
@@ -68,7 +68,7 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 					<h2 class="hide">Hours</h2>
 					<dl>
 						<dt>Sunday to Thursday</dt>
-							<dd>4pm - 11pm</dd>
+							<dd>4pm - 12am</dd>
 						<dt>Friday and Saturday</dt>
 							<dd>4pm - 1am</dd>
 					</dl>
