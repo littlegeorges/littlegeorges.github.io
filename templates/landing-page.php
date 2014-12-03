@@ -14,9 +14,9 @@
 	</p>
 	<div class="tiles tiles-center pad-bottom-md">
 		<?php foreach ($locations as $location): ?>
-			<div class="tile pad-bottom-md pad-h-sm sm-pad-h-md md-pad-h-lg">
+			<div class="tile w-fill sm-w-1-2 md-w-3-7 xl-w-1-3 pad-bottom-md pad-h-sm sm-pad-h-md md-pad-h-lg">
 				<a href="<?php echo $location->name; ?>" class="stack location-link">
-					<h2><?php echo $location->title; ?></h2>
+					<h2 class="text-center"><?php echo $location->title; ?></h2>
 					<p class="fs-sm"><?php echo $location->phone_number; ?></p>
 					<p class="fs-sm"><?php echo $location->address; ?></p>
 				</a>
