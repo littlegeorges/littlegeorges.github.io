@@ -70,7 +70,7 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 					<dl>
 						<dt>Sunday to Thursday</dt>
 							<dd>4pm - 12am</dd>
-						<dt>Friday and Saturday</dt>
+						<dt class="pad-top-sm">Friday and Saturday</dt>
 							<dd>4pm - 1am</dd>
 					</dl>
 				</div>
