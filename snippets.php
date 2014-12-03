@@ -53,8 +53,9 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 							<meta itemprop="servesCuisine" content="greek, italian, pizza, pasta, salad, steak">
 							<meta itemprop="openingHours" content="Mo-Th 16:00-0:00">
 							<meta itemprop="openingHours" content="Fr,Sa 16:00-1:00">
-							<p class="text-right" itemprop="address">
-								<?php echo $location->address; ?>
+							<meta itemprop="address" content="<?php echo $location->address; ?>">
+							<p class="text-right">
+								<?php echo str_replace('<br>', ' ', $location->title); ?>
 							</p>
 							<p class="text-right">
 								<a itemprop="telephone" class="fs-lg tel-link" href="tel:<?php echo $location->phone_number; ?>">
