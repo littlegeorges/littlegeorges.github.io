@@ -31,7 +31,7 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 				<a title="home" href="<?php echo $path_to_root; ?>" class="stack pad-top-md logo-link">
 					<img
 						itemprop="logo"
-						src="<?php echo $path_to_root ?>/images/logo.png"
+						src="<?php echo $path_to_root ?>images/logo.png"
 						alt="Little George's Logo"
 						width="219"
 						height="114"
