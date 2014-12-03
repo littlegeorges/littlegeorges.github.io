@@ -41,12 +41,12 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 			</div>
 			<div class="tile tiles">
 				<div class="tile">
-					<p class="text-right pad-bottom-sm">
+					<p class="text-right">
 						<strong>CITY WIDE DELIVERY</strong><br>
 						<small class="fs-sm">Delivery Charge Applies</small>
 					</p>
 					<?php foreach ($locations as $location): ?>
-						<div itemscope itemtype="http://schema.org/Restaurant" itemref="little-georges-organization">
+						<div class="pad-top-sm" itemscope itemtype="http://schema.org/Restaurant" itemref="little-georges-organization">
 							<meta itemprop="name" content="Little George's - <?php echo $location->title; ?>">
 							<meta itemprop="url" content="<?php echo SITE_URL; ?>/<?php echo $location->name; ?>">
 							<meta itemprop="menu" content="<?php echo SITE_URL; ?>/<?php echo $location->name; ?>">
