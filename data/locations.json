@@ -3,13 +3,21 @@
 		"name": "south-nanaimo",
 		"title": "Central/South<br>Nanaimo",
 		"phone_number": "(250) 754-3271",
-		"address": "398C Bruce Ave. Nanaimo, BC",
+		"address": {
+			"streetAddress": "398C Bruce Ave.",
+			"addressLocality": "Nanaimo",
+			"addressRegion": "BC"
+		},
 		"download_menu_file": "../images/south-nanaimo-menu.pdf"
 	},
 	{
 		"name": "north-nanaimo",
 		"title": "North<br>Nanaimo",
 		"phone_number": "(250) 390-2888",
-		"address": "#4 - 6404 Metral Drive Nanaimo, BC"
+		"address": {
+			"streetAddress": "#4 - 6404 Metral Drive",
+			"addressLocality": "Nanaimo",
+			"addressRegion": "BC"
+		}
 	}
 ]

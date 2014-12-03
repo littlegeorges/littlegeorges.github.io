@@ -53,7 +53,11 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 							<meta itemprop="servesCuisine" content="greek, italian, pizza, pasta, salad, steak">
 							<meta itemprop="openingHours" content="Mo-Th 16:00-0:00">
 							<meta itemprop="openingHours" content="Fr,Sa 16:00-1:00">
-							<meta itemprop="address" content="<?php echo $location->address; ?>">
+							<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+								<meta itemprop="streetAddress" content="<?php echo $location->address->streetAddress; ?>">
+								<meta itemprop="addressLocality" content="<?php echo $location->address->addressLocality; ?>">
+								<meta itemprop="addressRegion" content="<?php echo $location->address->addressRegion; ?>">
+							</div>
 							<p class="text-right">
 								<?php echo str_replace('<br>', ' ', $location->title); ?>
 							</p>

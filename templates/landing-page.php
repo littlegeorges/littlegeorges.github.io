@@ -18,7 +18,11 @@
 				<a href="<?php echo $location->name; ?>" class="stack location-link">
 					<h2 class="text-center"><?php echo $location->title; ?></h2>
 					<p class="fs-sm"><?php echo $location->phone_number; ?></p>
-					<p class="fs-sm"><?php echo $location->address; ?></p>
+					<p class="fs-sm">
+						<?php echo $location->address->streetAddress; ?>
+						<?php echo $location->address->addressLocality; ?>,
+						<?php echo $location->address->addressRegion; ?>
+					</p>
 				</a>
 			</div>
 		<?php endforeach ?>
