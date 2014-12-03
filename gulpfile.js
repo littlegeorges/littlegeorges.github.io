@@ -1,3 +1,4 @@
+var globals = require('./data/globals.json');
 var gulp = require('gulp');
 var gulp_shell = require('gulp-shell');
 var gulp_stylus = require('gulp-stylus');
@@ -6,8 +7,17 @@ var gulp_autoprefixer = require('gulp-autoprefixer');
 var gulp_minify_css = require('gulp-minify-css');
 var gulp_concat = require('gulp-concat');
 var pngcrush = require('imagemin-pngcrush');
+var gulp_sitemap = require('gulp-sitemap');
 
 gulp.task('default', ['build-templates','build-images','build-js','stylus']);
+
+gulp.task('sitemap', function() {
+	gulp.src('_site/**/*.html')
+		.pipe(gulp_sitemap({
+			siteUrl: globals.SITE_URL
+		}))
+		.pipe(gulp.dest('./_site'));
+});
 
 gulp.task('build-templates', gulp_shell.task([
 	'php build.php'
