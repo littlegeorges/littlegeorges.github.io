@@ -9,12 +9,6 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 <head>
 	<meta charset="utf-8">
 	<title><?php echo $title; ?></title>
-	<link rel="shortcut icon" href="<?php echo $path_to_root; ?>images/favicon.ico" type="image/x-icon">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="format-detection" content="telephone=no">
-	<link rel="canonical" href="<?php echo SITE_URL; ?>/<?php echo $path; ?>" />
-	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
-
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -24,6 +18,11 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 	  ga('create', 'UA-38264618-1', 'auto');
 	  ga('send', 'pageview');
 	</script>
+	<link rel="shortcut icon" href="<?php echo $path_to_root; ?>images/favicon.ico" type="image/x-icon">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="canonical" href="<?php echo SITE_URL; ?>/<?php echo $path; ?>" />
+	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">
 </head>
 <body>
 	<div id="little-georges-organization" itemprop="branchOf" itemscope itemtype="http://schema.org/Organization" class="stack cs-1 pad-md">
