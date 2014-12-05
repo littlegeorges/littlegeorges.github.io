@@ -14,6 +14,7 @@
 	</script>
 	<link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="http://littlegeorges.ca/south-nanaimo/" />
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
@@ -221,12 +222,17 @@
 			</div>
 		
 		<!-- A fixed position link to return us to the top of the page when we are scrolled down -->
-		<a
+		<div
 			id="scroll-to-top"
 			class="scroll-to-top pad-sm fs-sm"
-			href="#">
-				<img src="../images/up-arrow.svg" alt="back to top" title="back to top">
-		</a>
+		>
+				<img
+					src="../images/up-arrow.svg"
+					onerror="this.src='../images/up-arrow.png'"
+					alt="back to top"
+					title="back to top"
+				>
+		</div>
 		<!--
 			When scroll past #activator-scroll-to-top we add/remove a class from #scroll-to-top.
 			It is essentially a marker for when we want to show/hide #scroll-to-top

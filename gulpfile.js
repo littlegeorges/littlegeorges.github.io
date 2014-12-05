@@ -8,6 +8,7 @@ var gulp_minify_css = require('gulp-minify-css');
 var gulp_concat = require('gulp-concat');
 var pngcrush = require('imagemin-pngcrush');
 var gulp_sitemap = require('gulp-sitemap');
+var gulp_svg2png = require('gulp-svg2png');
 
 gulp.task('default', ['build-templates','build-images','build-js','stylus']);
 
@@ -27,12 +28,15 @@ gulp.task('build-images', function() {
 	gulp.src('images/**/*', {base: 'images'})
 		.pipe(pngcrush({reduce: true})())
 		.pipe(gulp.dest('_site/images', {mode: '0775'}));
+	gulp.src('images/**/*.svg', {base: 'images'})
+		.pipe(gulp_svg2png())
+		.pipe(gulp.dest('_site/images', {mode: '0775'}));
 });
 
 gulp.task('build-js', function() {
 	gulp.src(['js/slideshow.js'], {base: 'js'})
 		.pipe(gulp.dest('_site/js'));
-	gulp.src(['js/lg-jump-menu.js','js/scroll-to-top.js'], {base: 'js'})
+	gulp.src(['js/classList.min.js','js/lg-jump-menu.js','js/scroll-to-top.js'], {base: 'js'})
 		.pipe(gulp_concat('menu-page.js'))
 		.pipe(gulp.dest('_site/js'));
 });

@@ -32,4 +32,8 @@
 		}
 	};
 	window.addEventListener('scroll', check);
+	var scrollToTop = function() {
+		window.scrollTo(0,0);
+	};
+	el_scroll_to_top.addEventListener('click',scrollToTop);
 })();

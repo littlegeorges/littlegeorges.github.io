@@ -20,6 +20,7 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 	</script>
 	<link rel="shortcut icon" href="<?php echo $path_to_root; ?>images/favicon.ico" type="image/x-icon">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
 	<meta name="format-detection" content="telephone=no">
 	<link rel="canonical" href="<?php echo SITE_URL; ?>/<?php echo $path; ?>" />
 	<link rel="stylesheet" type="text/css" href="<?php echo $path_to_root; ?>css/style.css">

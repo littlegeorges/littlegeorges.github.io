@@ -66,12 +66,17 @@
 		<?php endif ?>
 
 		<!-- A fixed position link to return us to the top of the page when we are scrolled down -->
-		<a
+		<div
 			id="scroll-to-top"
 			class="scroll-to-top pad-sm fs-sm"
-			href="#">
-				<img src="../images/up-arrow.svg" alt="back to top" title="back to top">
-		</a>
+		>
+				<img
+					src="../images/up-arrow.svg"
+					onerror="this.src='../images/up-arrow.png'"
+					alt="back to top"
+					title="back to top"
+				>
+		</div>
 		<!--
 			When scroll past #activator-scroll-to-top we add/remove a class from #scroll-to-top.
 			It is essentially a marker for when we want to show/hide #scroll-to-top
