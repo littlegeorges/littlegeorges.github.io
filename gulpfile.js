@@ -59,7 +59,8 @@ gulp.task('optimize', function() {
 				'_site/north-nanaimo/index.html'
 			],
 			ignore: [
-				/\.js-.+/
+				/\.js-.+/,
+				/target/ // https://github.com/giakki/uncss/issues/117
 			]
 		}))
 		.pipe(gulp_minify_css())
