@@ -1,6 +1,6 @@
 # For changes to the menu and other data
 
-Make changes to data in `locations.json` and `menu.json`.
+Make changes to data in `data/locations.json` and `data/menu.json`.
 
 Some pieces of information are not in the json files. They will be in the `templates` folder. Make the changes in the template files.
 
