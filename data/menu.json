@@ -286,15 +286,15 @@
     },
     {
         "title": "Charbroiled Burgers",
-        "section_notes": "Add caesar salad for a $1.00  \nAll burgers served on a sesame seed bun with lettuce, tomato, onion, mustard, mayo, and choice of fries or tossed salad.",
-        "end_notes": "",
+        "section_notes": "All burgers consist of 5 oz. pure AAA beef patty",
+        "end_notes": "Add caesar salad for a $1.00<br><br>All burgers served on a brioche burger bun with lettuce, tomato, onion, mustard, mayo, and choice of crispy fries or tossed salad.",
         "display_format": "",
         "locations": [
             "south-nanaimo"
         ],
         "menu_items": [
             {
-                "title": "Bacon Cheddar Burger",
+                "title": "Classic Burger",
                 "description": "",
                 "price": [
                     "$12.95"
@@ -304,10 +304,40 @@
                 ]
             },
             {
-                "title": "Charbroiled Chicken Club Burger",
+                "title": "BBQ Classic Burger",
                 "description": "",
                 "price": [
                     "$12.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Classic Cheddar Burger",
+                "description": "",
+                "price": [
+                    "$12.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Classic Mushroom Cheddar Burger",
+                "description": "",
+                "price": [
+                    "$14.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Bacon Cheddar Supreme Burger",
+                "description": "",
+                "price": [
+                    "$14.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -324,60 +354,20 @@
                 ]
             },
             {
-                "title": "Deluxe Cheeseburger",
+                "title": "Pineapple Teriyaki Chicken Burger",
                 "description": "",
                 "price": [
-                    "$10.95"
+                    "$14.95"
                 ],
                 "locations": [
                     "south-nanaimo"
                 ]
             },
             {
-                "title": "Deluxe Teriyaki Burger",
+                "title": "Charbroiled Chicken Club Burger",
                 "description": "",
                 "price": [
-                    "$10.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Classic Mushroom Cheddar Burger",
-                "description": "",
-                "price": [
-                    "$12.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Deluxe Burger",
-                "description": "",
-                "price": [
-                    "$10.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Charbroiled Chicken Teriyaki Breast Burger",
-                "description": "",
-                "price": [
-                    "$12.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Salmon Burger",
-                "description": "Served with lettuce, onion, tomato, and chipotle mayo.",
-                "price": [
-                    "$12.95"
+                    "$14.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -385,7 +375,7 @@
             },
             {
                 "title": "Charbroiled Veggie Burger",
-                "description": "Served with lettuce, onions, tomatoes, and chipotle mayo",
+                "description": "",
                 "price": [
                     "$12.95"
                 ],
@@ -418,7 +408,18 @@
                 ]
             },
             {
-                "title": "Caesar Salad",
+                "title": "Mediterranean Penne Salad",
+                "description": "Penne pasta with red onions, green peppers, sliced olives, diced tomatoes, and feta cheese tossed in our own mediterranean dressing",
+                "price": [
+                    "$12.95"
+                ],
+                "locations": [
+                    "north-nanaimo",
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Classic Caesar Salad",
                 "description": "Prepared with our own creamy Caesar dressing, croutons, and parmesan cheese",
                 "price": [
                     "Regular $8.95",
@@ -486,30 +487,20 @@
         ],
         "menu_items": [
             {
-                "title": "Fettuccini Alfredo with Ham",
-                "description": "Fettuccini noodles tossed in our own Alfredo sauce and ham topped with Parmesan cheese.",
-                "price": [
-                    "$15.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            },
-            {
                 "title": "Grilled Chicken Fettuccini",
                 "description": "Sliced grilled chicken breast tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheese.",
                 "price": [
-                    "$15.95"
+                    "$17.95"
                 ],
                 "locations": [
                     "south-nanaimo"
                 ]
             },
             {
-                "title": "Spaghettini a la George",
-                "description": "Spaghettini noodles tossed with fresh garlic, red onions, peppers, alfredo sauce and grilled chicken breast. Topped with parmesan cheese.",
+                "title": "Chorizo Penne",
+                "description": "Penne pasta tossed with grilled chorizo sausage, olive oil, fresh garlic, and our own roasted tomato marinara sauce.",
                 "price": [
-                    "$15.95"
+                    "$17.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -519,7 +510,17 @@
                 "title": "Pesto Chicken Fettuccini",
                 "description": "Sliced grilled chicken breast tossed in our homemade pesto sauce and fettuccini noodles topped with parmesan cheese.",
                 "price": [
-                    "$15.95"
+                    "$17.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Chicken Penne Alfredo",
+                "description": "Penne pasta tossed with chicken breast, red onions, peppers, fresh garlic, and our homemade Alfredo sauce topped with parmesan cheese.",
+                "price": [
+                    "$17.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -529,37 +530,37 @@
                 "title": "Shrimp Fettuccini",
                 "description": "Cold water, plump shrimps tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.",
                 "price": [
-                    "$15.95"
+                    "$17.95"
                 ],
                 "locations": [
                     "south-nanaimo"
                 ]
             },
             {
-                "title": "Tiger Prawn Fettuccini",
+                "title": "Black Tiger Prawn Fettuccini",
                 "description": "Saut\u00e9ed tiger prawns tossed in our own alfredo sauce and fettuccini noodles topped with parmesan cheeses.",
                 "price": [
-                    "$16.95"
+                    "$18.95"
                 ],
                 "locations": [
                     "south-nanaimo"
                 ]
             },
             {
-                "title": "Grilled Butter Chicken Fettuccini",
-                "description": "Sliced grilled chicken breast tossed in our own butter chicken sauce and fettuccini noodles, topped with parmesan cheese.",
-                "price": [
-                    "$15.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Cajun Prawns Fettuccini",
+                "title": "Cajun Prawn Fettuccini",
                 "description": "Saut\u00e9ed tiger prawns tossed in our own cajun spice and fettuccini noodles topped with parmesan cheese.",
                 "price": [
-                    "$16.95"
+                    "$18.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Black Tiger Prawn Pesto Penne",
+                "description": "Saut\u00e9ed tiger prawns tossed in our own creamy pesto saucewith penne pasta and topped with parmesan cheese.",
+                "price": [
+                    "$18.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -581,7 +582,7 @@
                 "title": "Steamed Spaghetti",
                 "description": "with meat sauce or veggie sauce",
                 "price": [
-                    "$18.95"
+                    "$19.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -592,7 +593,7 @@
                 "title": "Baked Spaghetti",
                 "description": "with meat sauce or veggie sauce",
                 "price": [
-                    "$19.95"
+                    "$20.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -603,7 +604,7 @@
                 "title": "Baked Lasagna",
                 "description": "with meat sauce or veggie sauce",
                 "price": [
-                    "$19.95"
+                    "$20.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -614,7 +615,7 @@
                 "title": "Baked Ravioli",
                 "description": "with meat sauce or veggie sauce",
                 "price": [
-                    "$20.95"
+                    "$21.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -625,7 +626,18 @@
                 "title": "Baked Tortellini",
                 "description": "with meat sauce or veggie sauce",
                 "price": [
-                    "$20.95"
+                    "$21.95"
+                ],
+                "locations": [
+                    "north-nanaimo",
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Baked Penne Alfredo",
+                "description": "",
+                "price": [
+                    "$21.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -636,7 +648,7 @@
                 "title": "Baked Spinach & Cheese Cannelloni",
                 "description": "with meat sauce or veggie sauce",
                 "price": [
-                    "$21.95"
+                    "$22.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -647,7 +659,7 @@
                 "title": "Baked Fettuccini Alfredo",
                 "description": "",
                 "price": [
-                    "$20.95"
+                    "$21.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -658,7 +670,7 @@
                 "title": "Baked Tortellini Alfredo",
                 "description": "",
                 "price": [
-                    "$20.95"
+                    "$21.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -711,7 +723,7 @@
                 ]
             },
             {
-                "title": " Deep Fries Zucchini",
+                "title": "Deep Fried Zucchini",
                 "description": "with Tzatziki dip",
                 "price": [
                     "$7.95"
@@ -722,10 +734,10 @@
                 ]
             },
             {
-                "title": " Fresh Calamari",
+                "title": "Lemon Pepper Calamari",
                 "description": "with Tzatziki dip",
                 "price": [
-                    "$10.95"
+                    "$11.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -733,7 +745,7 @@
                 ]
             },
             {
-                "title": " Deep Fried Mozza Sticks",
+                "title": "Deep Fried Mozza Sticks",
                 "description": "with Tzatziki dip",
                 "price": [
                     "$8.95"
@@ -865,10 +877,10 @@
                 ]
             },
             {
-                "title": "Bruschetta",
+                "title": "Bruschetta Flat Bread",
                 "description": "Toasted French bread with olive oil, pesto basil, topped with diced tomatoes, red onions, baked with mozza, cheddar and parmesan.",
                 "price": [
-                    "$7.95"
+                    "$10.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -879,7 +891,7 @@
                 "title": "Popcorn Shrimp",
                 "description": "served with seafood sauce",
                 "price": [
-                    "$9.95"
+                    "$10.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -922,9 +934,9 @@
         "menu_items": [
             {
                 "title": "1\/2 BBQ Chicken ",
-                "description": "Tender chicken prepared in our own BBQ sauce.",
+                "description": "Tender chicken prepared in our own BBQ sauce.<br><br>Add baked pasta for $2.00",
                 "price": [
-                    "$16.95"
+                    "$18.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -933,9 +945,9 @@
             },
             {
                 "title": "BBQ Ribs",
-                "description": "Tender baby back ribs prepared with herbs and spices in our own BBQ sauce.",
+                "description": "Tender baby back ribs prepared with herbs and spices in our own BBQ sauce.<br><br>Add baked pasta for $2.00",
                 "price": [
-                    "$19.95"
+                    "$21.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -946,18 +958,7 @@
                 "title": "BBQ Chicken & Ribs",
                 "description": "All the above served with salad, garlic bread, and choice of baked potato, rice, or steamed spaghetti, or substitute baked pasta for $2.00.",
                 "price": [
-                    "$19.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Teriyaki Chicken Breast Dinner",
-                "description": "Succulent breast of chicken, broiled to perfection with Teriyaki sauce. Served with salad, garlic bread and choice of baked potato, rice or fries.",
-                "price": [
-                    "$18.95"
+                    "$21.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -968,29 +969,7 @@
                 "title": "Greek Style Chicken Breast Dinner",
                 "description": "Two succulent breast of chicken, marinated in lemon, oregano, olive oil and spices grilled to perfection. Served with rice, greek salad and pita bread.",
                 "price": [
-                    "$18.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Butter Chicken Dinner",
-                "description": "Grilled chicken breast cooked to perfection in our own butter chicken sauce. Served on a bed of rice and comes with a Caesar salad.",
-                "price": [
-                    "$16.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Grilled Curried Prawn Dinner",
-                "description": "Curried prawns served on a bed of rice and comes with a Caesar salad.",
-                "price": [
-                    "$16.95"
+                    "$19.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -1000,6 +979,38 @@
             {
                 "title": "Roast Lamb Shank",
                 "description": "Braised lamb shank cooked with herbs, rosemary and spices. With a choice of roast potatoes or rice with Greek salad.",
+                "price": [
+                    "$21.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Butter Chicken Dinner",
+                "description": "Grilled chicken breast cooked to perfection in our own butter chicken sauce. Served on a bed of rice and comes with a Caesar salad.",
+                "price": [
+                    "$18.95"
+                ],
+                "locations": [
+                    "north-nanaimo",
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Garlic Prawn Dinner",
+                "description": "Succulent prawns pan fried with garlic butter and white wine. Served with choice of rice, roast potatoes or baked potato and Caesar Salad or Tossed salad & garlic bread",
+                "price": [
+                    "$18.95"
+                ],
+                "locations": [
+                    "north-nanaimo",
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Veal or Chicken Parmesan",
+                "description": "Served with Spaghettini Noodles and Caesar salad or tossed salad",
                 "price": [
                     "$18.95"
                 ],
@@ -1031,7 +1042,7 @@
                 ]
             },
             {
-                "title": "Fried Chicken Dinner ",
+                "title": "Fried Chicken Dinner",
                 "description": "Served with fries or Caesar salad and garlic bread.",
                 "price": [
                     "$13.95 3pc",
@@ -1053,46 +1064,13 @@
                     "north-nanaimo",
                     "south-nanaimo"
                 ]
-            },
-            {
-                "title": "Garlic Prawn Dinner",
-                "description": "Succulent prawns pan fried with garlic butter and white wine. Served with choice of rice, roast potatoes or baked potato and Caesar Salad or Tossed salad & garlic bread",
-                "price": [
-                    "$17.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Veal Parmesan",
-                "description": "Served with Spaghettini Noodles and Caesar salad or tossed salad",
-                "price": [
-                    "$17.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Mediterranean Lamb Chops",
-                "description": "Lamb Chops marinated with herbs and spices grilled to perfection. Served with a choice of roast potatoes or rice and Greek salad & pita bread",
-                "price": [
-                    "$18.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
             }
         ]
     },
     {
         "title": "Charbroiled Steaks",
-        "section_notes": "(Cut from Canadian Best Cut Meats)  \nSterlingSilver AAA The Best!!!  \nAdd skewer of garlic prawns - $4.95",
-        "end_notes": "All above served with Caesar or Tossed salad, garlic bread, and choice of baked potato, rice or roast potatoes.",
+        "section_notes": "(Alberta AAA Best Beef) Served with choice of rice, roast potatoes, or baked potato and caesar or tossed salad & garlic bread.  \nAdd skewer of garlic prawns - $5.95  \nAdd baked potato - $2.00",
+        "end_notes": "",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1102,7 +1080,17 @@
                 "title": "8oz. New York Strip Loin",
                 "description": "",
                 "price": [
-                    "$19.95"
+                    "$21.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Steak & Lobster",
+                "description": "",
+                "price": [
+                    "$31.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -1123,7 +1111,7 @@
                 "title": "Beef Souvlaki",
                 "description": "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.",
                 "price": [
-                    "$17.95"
+                    "$18.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -1133,7 +1121,7 @@
                 "title": "Chicken Souvlaki",
                 "description": "Marinated in our special herbs & spices and served on a bed of rice with choice of Greek or Caesar salad & pita bread.",
                 "price": [
-                    "$17.95"
+                    "$18.95"
                 ],
                 "locations": [
                     "south-nanaimo"
@@ -1142,46 +1130,14 @@
         ]
     },
     {
-        "title": "Steak & Pasta Combos",
-        "section_notes": "Served with Caesar or tossed salad & garlic toast",
+        "title": "Steak Sandwich",
+        "section_notes": "$17.95\nServed with fries or Caesar salad.",
         "end_notes": "",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
         ],
-        "menu_items": [
-            {
-                "title": "8 oz. New York Strip Loin Steak with Pasta",
-                "description": "",
-                "price": [
-                    "$21.95"
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            }
-        ]
-    },
-    {
-        "title": " New Yorker Steak Sandwich",
-        "section_notes": "$15.95\nServed with fries or Caesar salad.",
-        "end_notes": "",
-        "display_format": "mini",
-        "locations": [
-            "south-nanaimo"
-        ],
-        "menu_items": [
-            {
-                "title": "",
-                "description": "",
-                "price": [
-                    ""
-                ],
-                "locations": [
-                    "south-nanaimo"
-                ]
-            }
-        ]
+        "menu_items": []
     },
     {
         "title": "Combo Specials",
