@@ -19,7 +19,7 @@ function generate_404_page($locations) {
 
 function generate_menu_page($location) {
 	$dir_name = STATIC_SITE_FOLDER.'/'.url_slug($location->name);
-	mkdir($dir_name);
+	@mkdir($dir_name);
 	generate_from_template($dir_name.'/index.html', 'templates/menu-page.php', compact('location'));
 }
 
