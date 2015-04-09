@@ -2,7 +2,6 @@
     {
         "title": "Pizza 2 for 1",
         "section_notes": "",
-        "end_notes": "",
         "display_format": "pizza",
         "locations": [
             "north-nanaimo",
@@ -287,7 +286,6 @@
     {
         "title": "Charbroiled Burgers",
         "section_notes": "All burgers consist of 5 oz. pure AAA beef patty",
-        "end_notes": "Add caesar salad for a $1.00<br><br>All burgers served on a brioche burger bun with lettuce, tomato, onion, mustard, mayo, and choice of crispy fries or tossed salad.",
         "display_format": "",
         "locations": [
             "south-nanaimo"
@@ -388,7 +386,6 @@
     {
         "title": "Salads",
         "section_notes": "All served with garlic toast  \nAdd Cajun Prawns (6 pieces) - $4.95  \nAdd Cold Water Shrimp - $3.95  \nAdd Chicken Breast - $4.95",
-        "end_notes": "",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -480,7 +477,6 @@
     {
         "title": "Specialty Pastas",
         "section_notes": "served with garlic toast",
-        "end_notes": "",
         "display_format": "two-col",
         "locations": [
             "south-nanaimo"
@@ -571,7 +567,6 @@
     {
         "title": "2 for 1 Pasta",
         "section_notes": "Add meatballs or extra cheese for $2.00  \n$6.00 discount on single order",
-        "end_notes": "",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -682,7 +677,6 @@
     {
         "title": "Appetizers",
         "section_notes": "(this section is not 2 for 1)",
-        "end_notes": "",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -925,7 +919,6 @@
     {
         "title": "House Specialties",
         "section_notes": "(this section is not 2 for 1)",
-        "end_notes": "",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -1070,7 +1063,6 @@
     {
         "title": "Charbroiled Steaks",
         "section_notes": "(Alberta AAA Best Beef) Served with choice of rice, roast potatoes, or baked potato and caesar or tossed salad & garlic bread.  \nAdd skewer of garlic prawns - $5.95  \nAdd baked potato - $2.00",
-        "end_notes": "",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1101,7 +1093,6 @@
     {
         "title": "Souvlaki",
         "section_notes": "",
-        "end_notes": "",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1132,7 +1123,6 @@
     {
         "title": "Steak Sandwich",
         "section_notes": "$17.95\nServed with fries or Caesar salad.",
-        "end_notes": "",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1142,7 +1132,6 @@
     {
         "title": "Combo Specials",
         "section_notes": "",
-        "end_notes": "",
         "display_format": "combo",
         "locations": [
             "north-nanaimo"
@@ -1223,7 +1212,6 @@
     {
         "title": "Make Your Own 2 for 1",
         "section_notes": "Pepperoni, Spinach, Canadian Ham, Side Bacon, Italian Sausage, Hot Cappicolli, Hot Pepperoni, Ground Beef, Chicken, Tomatoes, Onions, Green Peppers, Olives, Pineapple, Hot Banana Peppers, Cheddar Cheese, Feta Cheese, Mushrooms, Roasted Chicken Breast, Fresh Garlic",
-        "end_notes": "",
         "display_format": "table",
         "locations": [
             "north-nanaimo",
