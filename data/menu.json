@@ -1062,14 +1062,15 @@
     },
     {
         "title": "Charbroiled Steaks",
-        "section_notes": "(Alberta AAA Best Beef) Served with choice of rice, roast potatoes, or baked potato and caesar or tossed salad & garlic bread.  \nAdd skewer of garlic prawns - $5.95  \nAdd baked potato - $2.00",
+        "section_notes": "(Alberta AAA Best Beef)",
+        "end_notes": "Served with choice of rice, roast potatoes, or baked potato and caesar or tossed salad & garlic bread.  \nAdd skewer of garlic prawns - $5.95  \nAdd baked potato - $2.00",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
         ],
         "menu_items": [
             {
-                "title": "8oz. New York Strip Loin",
+                "title": "7oz. Top Sirloin",
                 "description": "",
                 "price": [
                     "$21.95"
