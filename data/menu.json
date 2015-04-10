@@ -385,7 +385,7 @@
     },
     {
         "title": "Salads",
-        "section_notes": "All served with garlic toast  \nAdd Cajun Prawns (6 pieces) - $4.95  \nAdd Cold Water Shrimp - $3.95  \nAdd Chicken Breast - $4.95",
+        "section_notes": "All served with garlic toast  \nAdd Cajun Prawns (6 pieces) - $5.95  \nAdd Cold Water Shrimp - $3.95  \nAdd Chicken Breast - $4.95",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -411,7 +411,6 @@
                     "$12.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             },
@@ -635,7 +634,6 @@
                     "$21.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             },
@@ -794,10 +792,20 @@
                 ]
             },
             {
-                "title": "Deep Fried Prawns ",
+                "title": "Deep Fried Prawns",
                 "description": "6 pieces, served with cocktail sauce.",
                 "price": [
                     "$8.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
+                "title": "Dry Garlic Ribs",
+                "description": "served with plum sauce.",
+                "price": [
+                    "$9.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -805,8 +813,8 @@
                 ]
             },
             {
-                "title": "Chicken Wings",
-                "description": "1 pound. (Hot and Spicy, Teriyaki or B.B.Q)",
+                "title": "1 lb. Chicken Wings",
+                "description": "(Hot and Spicy, Teriyaki or B.B.Q)",
                 "price": [
                     "$10.95"
                 ],
@@ -816,10 +824,10 @@
                 ]
             },
             {
-                "title": "Dry Garlic Ribs",
-                "description": "served with plum sauce.",
+                "title": "1 lb. Chicken Wings Combo",
+                "description": "Served with caesar salad.",
                 "price": [
-                    "$9.95"
+                    "$13.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -965,7 +973,6 @@
                     "$19.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             },
@@ -986,7 +993,6 @@
                     "$18.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             },
@@ -997,7 +1003,6 @@
                     "$18.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             },
@@ -1008,7 +1013,6 @@
                     "$18.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             },
@@ -1054,7 +1058,6 @@
                     "Half Loaf $7.95"
                 ],
                 "locations": [
-                    "north-nanaimo",
                     "south-nanaimo"
                 ]
             }
