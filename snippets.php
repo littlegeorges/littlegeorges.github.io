@@ -208,6 +208,11 @@ function mini_menu_section($menu_section) {
 				</div>
 			</div>
 		<?php endforeach ?>
+		<?php if (!empty($menu_section->end_notes)): ?>
+			<div class="text-center pad-sm">
+				<?php echo Markdown::defaultTransform($menu_section->end_notes); ?>
+			</div>
+		<?php endif ?>
 	</div>
 	<?php
 }
