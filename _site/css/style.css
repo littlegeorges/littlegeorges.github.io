@@ -4134,14 +4134,6 @@ a {
     margin-bottom: -50000px;
   }
 }
-.section-title {
-  border-radius: 4px;
-  background-size: cover;
-  background-position: center;
-  background-image: url("../images/slideshow/3.jpg");
-  color: #fff;
-  text-shadow: 0px 0px 12px #000, 2px 2px 12px #000;
-}
 .section-title:target {
   -webkit-animation: highlight;
           animation: highlight;
@@ -4161,6 +4153,14 @@ a {
   50% {
     text-shadow: 0px 0px 12px #fff, 2px 2px 12px #000;
   }
+}
+.text-on-img {
+  border-radius: 4px;
+  background-size: cover;
+  background-position: center;
+  background-image: url("../images/slideshow/3.jpg");
+  color: #fff;
+  text-shadow: 0px 0px 12px #000, 2px 2px 12px #000;
 }
 .fx-in-shadow {
   box-shadow: 0 0 1px 2px rgba(0,0,0,0.3) inset;

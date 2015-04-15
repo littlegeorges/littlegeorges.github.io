@@ -126,7 +126,7 @@ function section_header($menu_section) {
 			<?php if (!empty($menu_section->image)): ?>
 				style="background-image: url(../images/<?php echo $menu_section->image; ?>);"
 			<?php endif ?>
-			class="section-title text-center fx-popout fs-xxl pad-md"
+			class="section-title text-on-img text-center fx-popout fs-xxl pad-md"
 			>
 			<?php echo $menu_section->title; ?>
 		</div>
@@ -144,7 +144,23 @@ function standard_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div itemscope itemtype="http://schema.org/Product" class="sm-tile sm-w-1-2 pad-md tiles tiles-justify">
+				<div
+					itemscope
+					itemtype="http://schema.org/Product"
+					class="
+						sm-tile
+						sm-w-1-2
+						pad-md
+						tiles
+						tiles-justify
+						<?php if (!empty($menu_item->image)): ?>
+							text-on-img
+						<?php endif ?>
+					"
+					<?php if (!empty($menu_item->image)): ?>
+						style="background-image: url(../images/<?php echo $menu_item->image; ?>)"
+					<?php endif ?>
+				>
 					<div class="tile max-w-3-4 pad-right-sm">
 						<?php item_title($menu_item->title); ?>
 					</div>
@@ -168,7 +184,21 @@ function pizza_menu_section($menu_section) {
 		<?php section_header($menu_section); ?>
 		<div class="tiles">
 			<?php foreach ($menu_section->menu_items as $menu_item): ?>
-				<div itemscope itemtype="http://schema.org/Product" class="sm-tile sm-w-1-2 pad-md">
+				<div
+					itemscope
+					itemtype="http://schema.org/Product"
+					class="
+						sm-tile
+						sm-w-1-2
+						pad-md
+						<?php if (!empty($menu_item->image)): ?>
+							text-on-img
+						<?php endif ?>
+					"
+					<?php if (!empty($menu_item->image)): ?>
+						style="background-image: url(../images/<?php echo $menu_item->image; ?>)"
+					<?php endif ?>
+				>
 					<?php item_title($menu_item->title); ?>
 					<div itemprop="description" class="fs-mdsm">
 						<?php echo Markdown::defaultTransform($menu_item->description); ?>
