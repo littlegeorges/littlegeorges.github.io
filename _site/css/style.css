@@ -4154,12 +4154,12 @@ a {
 }
 @-webkit-keyframes highlight {
   50% {
-    color: #ff032c;
+    text-shadow: 0px 0px 12px #fff, 2px 2px 12px #000;
   }
 }
 @keyframes highlight {
   50% {
-    color: #ff032c;
+    text-shadow: 0px 0px 12px #fff, 2px 2px 12px #000;
   }
 }
 .fx-in-shadow {
