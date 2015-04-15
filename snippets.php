@@ -121,12 +121,35 @@ function item_price($prices) {
 
 function section_header($menu_section) {
 	?>
-	<h2
-		id="<?php echo url_slug($menu_section->title); ?>"
-		class="fs-xl text-center section-title"
-	>
-		<?php echo $menu_section->title; ?>
-	</h2>
+	<?php if (!empty($menu_section->image)): ?>
+		<div
+			style="
+				background-image: url(../images/<?php echo $menu_section->image; ?>);
+				height: 120px;
+				margin-bottom: 26px;
+				border-radius: 2000px;
+				background-size: cover;
+				background-position: center;
+				color: white;
+				text-shadow: 0px 0px 12px #000, 2px 2px 12px #000;
+				font-size: 48px;
+				line-height: 64px;
+
+
+				box-shadow: 0 0 2px 0 #000;
+			"
+			class="text-center"
+			>
+			<?php echo $menu_section->title; ?>
+		</div>
+	<?php else: ?>
+		<h2
+			id="<?php echo url_slug($menu_section->title); ?>"
+			class="fs-xl text-center section-title"
+		>
+			<?php echo $menu_section->title; ?>
+		</h2>
+	<?php endif ?>
 	<?php if (!empty($menu_section->section_notes)): ?>
 		<div class="text-center pad-sm">
 			<?php echo Markdown::defaultTransform($menu_section->section_notes); ?>

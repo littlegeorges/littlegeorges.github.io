@@ -2,6 +2,7 @@
     {
         "title": "Pizza 2 for 1",
         "section_notes": "",
+        "image": "slideshow/3.jpg",
         "display_format": "pizza",
         "locations": [
             "north-nanaimo",
@@ -286,6 +287,7 @@
     {
         "title": "Charbroiled Burgers",
         "section_notes": "All burgers consist of 5 oz. pure AAA beef patty",
+        "image": "menu/pineapple-burger.jpg",
         "display_format": "",
         "locations": [
             "south-nanaimo"
@@ -386,6 +388,7 @@
     {
         "title": "Salads",
         "section_notes": "All served with garlic toast  \nAdd Cajun Prawns (6 pieces) - $5.95  \nAdd Cold Water Shrimp - $3.95  \nAdd Chicken Breast - $4.95",
+        "image": "menu/salad-optimized.jpg",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -566,6 +569,7 @@
     {
         "title": "2 for 1 Pasta",
         "section_notes": "Add meatballs or extra cheese for $2.00  \n$6.00 discount on single order",
+        "image": "slideshow/1.jpg",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -675,6 +679,7 @@
     {
         "title": "Appetizers",
         "section_notes": "(this section is not 2 for 1)",
+        "image": "slideshow/2.jpg",
         "display_format": "",
         "locations": [
             "north-nanaimo",
