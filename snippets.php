@@ -125,17 +125,13 @@ function section_header($menu_section) {
 		<div
 			style="
 				background-image: url(../images/<?php echo $menu_section->image; ?>);
-				height: 120px;
-				margin-bottom: 26px;
-				border-radius: 2000px;
+				border-radius: 4px;
 				background-size: cover;
 				background-position: center;
 				color: white;
 				text-shadow: 0px 0px 12px #000, 2px 2px 12px #000;
-				font-size: 48px;
-				line-height: 64px;
 			"
-			class="text-center fx-popout"
+			class="text-center fx-popout fs-xxl pad-md"
 			>
 			<?php echo $menu_section->title; ?>
 		</div>
