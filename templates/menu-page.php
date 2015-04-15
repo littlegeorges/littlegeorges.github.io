@@ -16,7 +16,7 @@
 			sidebar-background
 		"
 	>
-		<ul id="lg-jump-menu" class="stack lg-jump-menu">
+		<ul id="lg-jump-menu" class="stack lg-jump-menu fx-popout">
 			<?php foreach ($location->menu as $i => $menu_section): ?>
 				<li class="stack lg-jump-menu_item fs-mdsm lg-fs-md">
 					<a

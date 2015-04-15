@@ -91,7 +91,7 @@ function page_top($title, $locations, $path_to_root = './', $path = '') {
 			</div>
 		</div>
 	</div>
-	<div class="cs-3 h-1 fx-popout">
+	<div class="cs-3 h-1 fx-in-shadow">
 	</div>
 	<?php
 }
@@ -134,11 +134,8 @@ function section_header($menu_section) {
 				text-shadow: 0px 0px 12px #000, 2px 2px 12px #000;
 				font-size: 48px;
 				line-height: 64px;
-
-
-				box-shadow: 0 0 2px 0 #000;
 			"
-			class="text-center"
+			class="text-center fx-popout"
 			>
 			<?php echo $menu_section->title; ?>
 		</div>
