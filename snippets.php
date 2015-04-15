@@ -126,7 +126,7 @@ function section_header($menu_section) {
 			<?php if (!empty($menu_section->image)): ?>
 				style="background-image: url(../images/<?php echo $menu_section->image; ?>);"
 			<?php endif ?>
-			class="section-title text-on-img text-center fx-popout fs-xxl pad-md"
+			class="section-title text-on-img text-center fx-popout fs-xl sm-fs-xxl pad-md"
 			>
 			<?php echo $menu_section->title; ?>
 		</div>
