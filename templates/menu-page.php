@@ -48,11 +48,20 @@
 				</div>
 
 				<h2 class="cs-4 text-center pad-v-sm fs-md">
-					Pasta Night Tuesday
+					Tuesday - Pasta Night
 				</h2>
 				<p class="text-center fs-mdsm">
 					Pick-up or Dine-in $8.95
 				</p>
+
+				<?php if ($location->name === 'south-nanaimo'): ?>
+					<h2 class="cs-4 text-center pad-v-sm fs-md">
+						Wednesday - Steak and Steamed Spaghetti Night
+					</h2>
+					<p class="text-center fs-mdsm">
+						Dine-in only $12.95
+					</p>
+				<?php endif ?>
 			</li>
 		</ul>
 	</div>
