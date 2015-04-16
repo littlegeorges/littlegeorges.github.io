@@ -155,6 +155,7 @@ function standard_menu_section($menu_section) {
 						tiles-justify
 						<?php if (!empty($menu_item->image)): ?>
 							text-on-img
+							fx-popout
 						<?php endif ?>
 					"
 					<?php if (!empty($menu_item->image)): ?>
@@ -193,6 +194,7 @@ function pizza_menu_section($menu_section) {
 						pad-md
 						<?php if (!empty($menu_item->image)): ?>
 							text-on-img
+							fx-popout
 						<?php endif ?>
 					"
 					<?php if (!empty($menu_item->image)): ?>
