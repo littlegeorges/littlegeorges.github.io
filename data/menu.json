@@ -77,6 +77,7 @@
             {
                 "title": "Classic Hawaiian",
                 "description": "Canadian Ham, Smoked Bacon, Pineapple, Cheddar Cheese, Mozzarella Cheese & Tomato Sauce",
+                "image": "menu/hawaiian-pizza-optimized.jpg",
                 "price": [
                     "$22.95",
                     "$27.95",
@@ -168,7 +169,7 @@
             {
                 "title": "All Dressed",
                 "description": "Pepperoni, Mushrooms, Ham, Beef, Olives, Onions, Green Pepper, Pineapple, Shrimp, Tomatoes, Cheese & Tomato Sauce",
-                "image": "slideshow/3.jpg",
+                "image": "menu/all-dressed-optimized.jpg",
                 "price": [
                     "$25.95",
                     "$31.95",
@@ -455,6 +456,7 @@
             {
                 "title": "Greek Salad",
                 "description": "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.",
+                "image": "menu/greek-salad-optimized.jpg",
                 "price": [
                     "Regular $8.95",
                     "Large $12.95"
@@ -480,6 +482,7 @@
     {
         "title": "Specialty Pastas",
         "section_notes": "served with garlic toast",
+        "image": "menu/alfredo-optimized.jpg",
         "display_format": "two-col",
         "locations": [
             "south-nanaimo"
@@ -832,6 +835,7 @@
             {
                 "title": "1 lb. Chicken Wings Combo",
                 "description": "Served with caesar salad.",
+                "image": "menu/chicken-wings-optimized.jpg",
                 "price": [
                     "$13.95"
                 ],
@@ -933,6 +937,7 @@
     {
         "title": "House Specialties",
         "section_notes": "(this section is not 2 for 1)",
+        "image": "menu/ribs-optimized.jpg",
         "display_format": "",
         "locations": [
             "north-nanaimo",
@@ -1005,6 +1010,7 @@
             {
                 "title": "Garlic Prawn Dinner",
                 "description": "Succulent prawns pan fried with garlic butter and white wine. Served with choice of rice, roast potatoes or baked potato and Caesar Salad or Tossed salad & garlic bread",
+                "image": "menu/garlic-prawns-optimized.jpg",
                 "price": [
                     "$18.95"
                 ],
@@ -1073,6 +1079,7 @@
         "title": "Charbroiled Steaks",
         "section_notes": "(Alberta AAA Best Beef)",
         "end_notes": "Served with choice of rice, roast potatoes, or baked potato and caesar or tossed salad & garlic bread.  \nAdd skewer of garlic prawns - $5.95  \nAdd baked potato - $2.00",
+        "image": "menu/sirloin-steak-optimized.jpg",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1103,6 +1110,7 @@
     {
         "title": "Souvlaki",
         "section_notes": "",
+        "image": "menu/souvlaki-optimized.jpg",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
@@ -1133,6 +1141,7 @@
     {
         "title": "Steak Sandwich",
         "section_notes": "$17.95\nServed with fries or Caesar salad.",
+        "image": "menu/steak-sandwich-optimized.jpg",
         "display_format": "mini",
         "locations": [
             "south-nanaimo"
