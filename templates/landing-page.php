@@ -29,7 +29,7 @@
 	</div>
 	<div class="readable content h-align-middle">
 		<hr>
-		<p>Here at Little George’s, we serve a vast array of delectable Mediterranean-style foods like cannelloni, fettuccine, lasagna, spaghetti and more. We also serve tender steaks, juicy burgers, tasty chicken, and the most delicious, fall-off-the-bone ribs in town.</p>
+		<p>We do more than just pizza! Here at Little George’s, we serve a vast array of delectable Mediterranean-style foods like cannelloni, fettuccine, lasagna, spaghetti and more. We also serve tender steaks, juicy burgers, tasty chicken, and the most delicious, fall-off-the-bone ribs in town.</p>
 		<p>Are you a salad lover? We have a variety of salads featuring the freshest ingredients, including our Chef’s Salad, Caesar Salad, Teriyaki Chicken Caesar Salad, and more.</p>
 		<img class="w-fill" src="images/interior-collage.jpg" alt="">
 		<p>We’re a small, family-owned restaurant serving generous portions, along with a wide variety of beverages (alcoholic and non-alcoholic). That’s why Little George’s restaurant has become a treasured dining spot in Nanaimo where locals love to congregate.</p>
