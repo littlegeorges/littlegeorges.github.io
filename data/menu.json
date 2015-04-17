@@ -443,10 +443,12 @@
                 ]
             },
             {
-                "title": "Hot & Spicy Chicken Caesar",
-                "description": "Caesar salad topped with a generous portion of our own spicy chicken.",
+                "title": "Greek Salad",
+                "description": "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.",
+                "image": "menu/greek-salad-optimized.jpg",
                 "price": [
-                    "$12.95"
+                    "Regular $8.95",
+                    "Large $12.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -454,12 +456,10 @@
                 ]
             },
             {
-                "title": "Greek Salad",
-                "description": "Tomatoes, onions, green pepper, cucumbers, Feta Cheese, Calamata olives tossed with olive oil and oregano.",
-                "image": "menu/greek-salad-optimized.jpg",
+                "title": "Hot & Spicy Chicken Caesar",
+                "description": "Caesar salad topped with a generous portion of our own spicy chicken.",
                 "price": [
-                    "Regular $8.95",
-                    "Large $12.95"
+                    "$12.95"
                 ],
                 "locations": [
                     "north-nanaimo",
