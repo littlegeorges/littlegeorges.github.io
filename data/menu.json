@@ -1151,6 +1151,7 @@
     {
         "title": "Combo Specials",
         "section_notes": "",
+        "image": "menu/salad-optimized.jpg",
         "display_format": "combo",
         "locations": [
             "north-nanaimo"
@@ -1158,57 +1159,7 @@
         "menu_items": [
             {
                 "title": "Combo #1",
-                "description": "1 Sm. Pizza (2 toppings)  \n1 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad",
-                "price": [
-                    "$23.95"
-                ],
-                "locations": [
-                    "north-nanaimo"
-                ]
-            },
-            {
-                "title": "Combo #2",
-                "description": "1 Sm. Pizza (2 toppings)  \n1 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n10 pc. Chicken Wings",
-                "price": [
-                    "$33.95"
-                ],
-                "locations": [
-                    "north-nanaimo"
-                ]
-            },
-            {
-                "title": "Combo #3",
-                "description": "1 Med. Pizza (2 toppings)  \n1 Tossed Salad  \n1 Pasta with Meat Sauce  \n1 Piece of Garlic Toast  \n1 Order of Fries  \n10 pc. Chicken Wings",
-                "price": [
-                    "$36.95"
-                ],
-                "locations": [
-                    "north-nanaimo"
-                ]
-            },
-            {
-                "title": "Combo #4",
-                "description": "1 Large Pizza (2 toppings)  \n2 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n10 pc. Chicken Wings",
-                "price": [
-                    "$41.95"
-                ],
-                "locations": [
-                    "north-nanaimo"
-                ]
-            },
-            {
-                "title": "Combo #5",
-                "description": "2 Med. Pizza (2 toppings)  \n2 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Tossed Salad & 2 Pop",
-                "price": [
-                    "$39.95"
-                ],
-                "locations": [
-                    "north-nanaimo"
-                ]
-            },
-            {
-                "title": "Combo #6",
-                "description": "3 Pasta with Meat Sauce  \n3 pc. Garlic Toast  \n(Spaghetti & Lasagna)",
+                "description": "1 Sm. Pizza (2 toppings)  \n2 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad",
                 "price": [
                     "$25.95"
                 ],
@@ -1217,14 +1168,95 @@
                 ]
             },
             {
-                "title": "Combo #7",
+                "title": "Combo #2",
                 "description": "1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n2 pc. Garlic Toast  \n1 Cheezy Bread",
                 "price": [
-                    "$23.95"
+                    "$24.95"
                 ],
                 "locations": [
                     "north-nanaimo"
                 ]
+            },
+            {
+                "title": "Combo #3",
+                "description": "1 Med. Pizza (2 toppings)  \n1 Tossed Salad  \n1 Pasta with Meat Sauce  \n2 Piece of Garlic Toast  \n1 Order of Fries  \n10 pc. Chicken Wings",
+                "price": [
+                    "$37.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #4",
+                "description": "1 Small Pizza (2 toppings)  \n2 pc. Garlic Toast  \n1 Pasta with Meat Sauce  \n1 Tossed Salad  \n1 Order of Fries  \n10 pc. Chicken Wings",
+                "price": [
+                    "$37.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #5",
+                "description": "2 Med. Pizza (2 toppings)  \n2 pc. Garlic Toast  \n2 Pasta with Meat Sauce",
+                "price": [
+                    "$40.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #6",
+                "description": "1 Med. Pizza (2 toppings)  \n2 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n2 pc. Garlic Toast",
+                "price": [
+                    "$40.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            },
+            {
+                "title": "Combo #7",
+                "description": "2 Med. Pizza (2 toppings)  \n1 Pasta with Meat Sauce  \n1 Reg. Caesar Salad  \n2 pc. Garlic Toast",
+                "price": [
+                    "$40.95"
+                ],
+                "locations": [
+                    "north-nanaimo"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Family Super Specials",
+        "section_notes": "",
+        "image": "slideshow/1.jpg",
+        "display_format": "",
+        "locations": [
+            "north-nanaimo"
+        ],
+        "menu_items": [
+            {
+                "title": "3 Sm. Pizza (2 topping)",
+                "description": "",
+                "price": ["$28.95"]
+            },
+            {
+                "title": "3 Med. Pizza (2 topping)",
+                "description": "",
+                "price": ["$33.95"]
+            },
+            {
+                "title": "3 Lg. Pizza (2 topping)",
+                "description": "",
+                "price": ["$38.95"]
+            },
+            {
+                "title": "3 Pasta (any kind) with Meat Sauce",
+                "description": "",
+                "price": ["$29.95"]
             }
         ]
     },
