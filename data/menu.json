@@ -410,22 +410,21 @@
                 ]
             },
             {
+                "title": "Mediterranean Penne Salad",
+                "description": "Penne pasta with red onions, green peppers, sliced olives, diced tomatoes, and feta cheese tossed in our own mediterranean dressing",
+                "price": [
+                    "$12.95"
+                ],
+                "locations": [
+                    "south-nanaimo"
+                ]
+            },
+            {
                 "title": "Classic Caesar Salad",
                 "description": "Prepared with our own creamy Caesar dressing, croutons, and parmesan cheese",
                 "price": [
                     "Regular $8.95",
                     "Large $11.95"
-                ],
-                "locations": [
-                    "north-nanaimo",
-                    "south-nanaimo"
-                ]
-            },
-            {
-                "title": "Teriyaki Chicken Caesar",
-                "description": "Caesar salad topped with grilled chicken breast, marinated in our own teriyaki sauce.",
-                "price": [
-                    "$12.95"
                 ],
                 "locations": [
                     "north-nanaimo",
@@ -446,8 +445,8 @@
                 ]
             },
             {
-                "title": "Hot & Spicy Chicken Caesar",
-                "description": "Caesar salad topped with a generous portion of our own spicy chicken.",
+                "title": "Teriyaki Chicken Caesar",
+                "description": "Caesar salad topped with grilled chicken breast, marinated in our own teriyaki sauce.",
                 "price": [
                     "$12.95"
                 ],
@@ -457,10 +456,10 @@
                 ]
             },
             {
-                "title": "Classic Mandarin Spinach Salad",
-                "description": "Baby spinach leaves, red onions, tomatoes topped with candied walnuts and cranberries. Served with raspberry vinaigrette and mandarin slices.",
+                "title": "Hot & Spicy Chicken Caesar",
+                "description": "Caesar salad topped with a generous portion of our own spicy chicken.",
                 "price": [
-                    "$10.95"
+                    "$12.95"
                 ],
                 "locations": [
                     "north-nanaimo",
